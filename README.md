@@ -1,10 +1,13 @@
 # JNSQ
-Of the French phrase *"Je Ne Sais Quoi,"* meaning *"Something (such as an appealing quality) that cannot be adequately described or expressed,"* JNSQ seeks to be a finely crafted, freshly exciting and intensely challenging planet pack. Galileo's Planet Pack "GPP" as many have come to know, has broken many conventions and raised the bar very high for high-quality, challenging, career-friendly planet packs. But now it is regarded as only a stepping stone to this. Everything that Team Galileo has done for and learned from GPP, has been or is being put into practice here.
+Of the French phrase *"Je Ne Sais Quoi,"* meaning *"Something (such as an appealing quality) that cannot be adequately described or expressed,"* JNSQ seeks to be a finely crafted and freshly intensely challenging planet pack. "Galileo's Planet Pack (GPP)" as many have come to know, has broken many conventions and raised the bar very high for high-quality, challenging, career-friendly, and long-term thrilling planet packs. But now it is regarded as only a stepping stone next to this. Everything that Team Galileo has done for and learned from GPP, has been or is being put into practice here.
 
 Unlike GPP, JNSQ does not remove the stock planets but rather, does reimagine and reinvent them, destroying what you think you know about some of them, and fills out the local planetary system, providing several all new worlds to discover.
 
 ## Logic
-Many KSP modders have considered that while the stock parts (namely, engines) are overpowered for stock scale, they are tuned just right for 2.5x scale. With this in mind, JNSQ is built in natively 2.7x scale, modestly larger than 2.5x for ease of writing and remembering numbers such as Kerbin's radius which is rounded to the nearest 100. **Sigma Dimensions** and **Rescale!** are not required for this mod to function, and will be *highly discouraged* from use alognside this mod.
+Many KSP modders have considered that while the stock parts (namely, engines) are overpowered for stock scale, they are tuned just right for 2.5x scale. With this in mind, JNSQ is built in natively 2.7x scale, modestly larger than 2.5x for ease of writing and remembering numbers such as Kerbin's radius which is rounded to the nearest 100. **Sigma Dimensions** and **Rescale!** are not required for this mod to function, and will be *highly discouraged* from use alongside this mod.
+
+## Disclaimer / Electric Fence
+:warning: The target audience for JNSQ is the same as, if not narrower, than that of GPP. This mod is made not for the player-base at large, but for players: who greatly respect rocketry, realism and physics; who do not hold much regard for maintaining "stockalike" and "stock scale;" who are willing to mod their way to a great game ~~and who are able to troubleshoot a damaged install for themselves and help us to help them.~~ Compatibility for mods that expect the stock planets with their stock setup is not to be expected and will not be provided by us.
 
 ## Recommended Mods
 ### Parts
