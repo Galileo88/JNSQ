@@ -3,7 +3,7 @@
 ### Eve
 Eve is an exceptionally purple planet, presumably possessing just enough of a rare substance to tint its oceans and horizons, like how one drop of any additive can remarkably change the flavor of a mug of juice. Fortunately, nobody has made the claim...yet, that Eve is full of grape juice.
 #### Gilly
-Gilly is a lumpy rock wandering around the orbit of Eve. It was once and for a long time believed to be the smallest natural satellite that the Kerbal Astronomical Society ever discovered, but that changed when the concept of colonizing the asteroid field sudenly became very interesting to those who weren't afraid of it.
+Gilly is a lumpy rock wandering around the orbit of Eve. It was once and for a long time believed to be the smallest natural satellite that the Kerbal Astronomical Society ever discovered, but that changed when the concept of colonizing the asteroid field suddenly became very interesting to those who weren't afraid of it.
 
 ----
 ### Kerbin
@@ -43,6 +43,7 @@ The only thing that's far off about Talos is its distance from Riga or from Lind
 
 ----
 ### Hamek
+This wonderfully mis-colored world dances and sways in and out of the depths of Kuiper Kerman's Belt. At this level of distance, expectation is high that only ice planets can exist here, so Hamek's redness is currently beyond all reason.
 
 ----
 ### Eeloo
