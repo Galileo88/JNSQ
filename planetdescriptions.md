@@ -1,4 +1,6 @@
 ### Moho
+The innermost planet is as a wise kerbal who sun-bathed too much and then got splashed by their grandchildren. Actually, that's not very wise, now is it? ...Moho has seen a lot and taken more punishment than the other local planets, so it appears. Look at those streaks! Think of what Moho might be secretly carrying now! And think of the heat too!
+
 ----
 ### Eve
 Eve is an exceptionally purple planet, presumably possessing just enough of a rare substance to tint its oceans and horizons, like how one drop of any additive can remarkably change the flavor of a mug of juice. Fortunately, nobody has made the claim...yet, that Eve is full of grape juice.
@@ -7,20 +9,27 @@ Gilly is a lumpy rock wandering around the orbit of Eve. It was once and for a l
 
 ----
 ### Kerbin
+A wondrous green and blue world, Kerbin is the only planet known to have given rise to life forms capable of more than instinctive action. Now these life forms, calling themselves Kerbals, seek to depart their nest and set foot in the deep. Half of the grand challenge ahead of them is just getting into orbit. Will they make it?
 #### Mun
+A pale sphere looms over Kerbal-kind since time immemorial, lighting their nights and stirring their oceans. Affectionately called Mün, it hosts pleasant suprises waiting to be found, like high hanging fruit in the tree of their back yard.
 #### Minmus
+Minmus is rather small, rather distant, and rather green. As long as artisan food has existed, so has the belief that it is composed of ice cream or mint. But recently, some have wised up and begun assuming it may actually be a rust ball. Mentioning this, however, tends to lead to levels of conflict only seen in debates between two political alignments.
 
 ----
 ### Duna
+Duna is a curiously warm-colored planet. Its surprising lack of atmosphere clashes strongly with its ability to host what very surely are ice caps. The Kerbal Astronomical Society is confident that Duna is very approachable, in great constrast to Eve, and so is eager to launch the first several manned expeditions in this general direction ASAP.
 #### Ike
+A pale sphere looms over the seeming desolate red planet, much like the one that has always been near to kerbal-kind and possibly serving all of the exact same purposes. Why, asks the Mun-gazers, is Ike so alike?
 
 ----
 ### Edna
 A lonely and dark world within the local asteroid belt, most likely named after a very grumpy female scientist, Edna turned out to be harder to recognize as a planet than Dres was. Kerbal astronomers eventually realized that unlike any of the large asteroids around, Edna was particularly round, and that it would, in few but regular cases, occlude something or be occluded.
 
 #### Dak
+
 ----
 ### Dres
+
 ----
 ### Jool
 #### Laythe
@@ -47,6 +56,7 @@ This wonderfully mis-colored world dances and sways in and out of the depths of 
 
 ----
 ### Eeloo
+Eeloo, the poster-child for ice worlds, is remarkably white and very difficult to look away from once clearly observed. It hosts a significant gravity well and encourages kerbal scientists to believe that a significant portion of the cosmos may consist of ice cream scoops.
 #### Celes
 #### Tam
 
