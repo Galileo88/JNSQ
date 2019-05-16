@@ -78,10 +78,10 @@ Kuiper Kerman's belt has many notches and a very wide buckle. Little things like
 ### Nara
 In classical astronomy, when close attention was paid to what would be known as Kuiper Kerman's Belt, it became apparent that there were many odd orbits, that something was stirring the ice asteroids like the LOX in a tank but having the opposite effect. The Kerbal Astronomical Society eventually realized that there was something out there with enough gravity to rival Jool and Lindor, and disturb the minor worlds beyond their reach. As Nara crept into observable ranges, it seemed like just another KB member, but the lack of apparent velocity was on a magnitude of its own, revealing its potential to be gigantic.
 
-#### Anon
+#### Amos
 The elusive innermost moon of Nara, Anon shares in the darker tones of Nara's surface and may have a unique composition if it is correctly judged just as a book may often be judged by its cover.
 
-#### Emos
+#### Enon
 Little is to be expected other than flavors of ice when one ventures this far from home... But things can get interesting nonetheless, when one encounters a white moon nearly as large as Duna.
 
 #### Prax
