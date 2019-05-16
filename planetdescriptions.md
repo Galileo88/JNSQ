@@ -46,7 +46,7 @@ Pale, large, and semingly unattractive, Dres hides in plain sight. It is the lar
 
 ----
 ### Lindor
-The seventh major planet, Lindor is amazingly large and is the same kind as Jool. Its swirls are fainter and calmer, instilling a particularly restful feeling into onlookers. A critical question has been raised recently- whether Lindor contains water or chocolate.
+The sixth major planet, Lindor is amazingly large and is the same kind as Jool. Its swirls are fainter and calmer, instilling a particularly restful feeling into onlookers. A critical question has been raised recently- whether Lindor contains water or chocolate.
 
 #### Krel
 This small pale world orbits its parent very closely, and was very hard to distinguish until a lead astronomer lost his telescope and had to obtain a new and shinier one. He became very concerned for his age when he noted Krel's vainy appearance.
