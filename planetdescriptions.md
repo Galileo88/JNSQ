@@ -1,3 +1,7 @@
+### Sun
+The Sun. It is power, it is life, it is heat, and it is the center of Kerbal-kind's little universe. Kerbal engineers and scientists alike have grown to realize over the centuries, that one day, they can have something like the Sun under them, burning endlessly without dwindling, propelling them above and beyond, and sustaining them in the cold and lonely expanse.
+
+----
 ### Moho
 The innermost planet is as a wise kerbal who sun-bathed too much and then got splashed by their grandchildren. Actually, that's not very wise, now is it? ...Moho has seen a lot and taken more punishment than the other local planets, so it appears. Look at those streaks! Think of what Moho might be secretly carrying now! And think of the heat too!
 
@@ -38,11 +42,22 @@ Pale, large, and semingly unattractive, Dres hides in plain sight. It is the lar
 
 ----
 ### Jool
+By sheer size, Jool stands the tallest among the local planets, and it ties with Kerbin for the title of richest celestial body (by composition). Its primary color is inexplicably the same as the skin of a kerbal, and the variety among its moons is exceedingly wide and unparalleled to date, making Jool the chief source of inspiration to Kerbal-kind for interplanetary and eventually, interstellar colonization.
+
 #### Laythe
-#### Tylo
+Half of the green giant's glory rests in what is the widest and heaviest moon observed yet. The hard questions easily arise at the thought of Laythe, such as: Why? How? Is it safe from Jool's radiation? How soon can we go? Can we make snacks just as good once we get there and not live on dehydrated stuff forever?
+
 #### Vall
+Vall is a curiously blue airless body and curiously, the last of them to be discovered, having been often mistaken for a pale asteroid in the inner asteroid belt whenever it was observed.
+
+#### Tylo
+Pale and large, Tylo fights for the spotlight with Laythe. As an arid world, there is little to look forward to when taken at face value. But in Jool's influence, there may be more than meets the eye.
+
 #### Bop
+Bop is brown. Bop is round. Bop is the sound that was heard all around...when the scientist male who gave its name, prior suggested something very lame.
+
 #### Pol
+The scientists who get to name some of these moons are the most curious kind. Pol earns its name from one who takes botany very seriously. Perhaps Pol's composition will similarly lend itself very well to off-world agriculture.
 
 ----
 ### Lindor
@@ -70,8 +85,8 @@ Eeloo, the poster-child for ice worlds, is remarkably white and very difficult t
 
 #### Celes
 It comes as a great coincidence that this body, prviously known as KB 4500331 was given the alias of Celes. It is often argued whether Celes could be its own dwarf planet and not a moon if Eeloo wasn't around. It is also argued to be named after a prominent, safety-minded software engineer at Probodobodyne. When Kuiper Kerman and Celes Kerman were approached by media teams they both responded 'NDA' and declined further questions.
-#### Tam
 
+#### Tam
 Kuiper Kerman's belt has many notches and a very wide buckle. Little things like Tam appear through these notches, and kerbals who don't criticize him for wearing such a large belt do praise his eccentric fashion sense on the whole just as they praise his devotion to finding and naming the little things out there. Tam is far from the only one of its kind but it's the only one found captured by a larger body to date. Before Tam got its personal name, it carried a designation often given to the more interesting of its kind. For Tam it was KB 4089848.
 
 ----
@@ -79,7 +94,7 @@ Kuiper Kerman's belt has many notches and a very wide buckle. Little things like
 In classical astronomy, when close attention was paid to what would be known as Kuiper Kerman's Belt, it became apparent that there were many odd orbits, that something was stirring the ice asteroids like the LOX in a tank but having the opposite effect. The Kerbal Astronomical Society eventually realized that there was something out there with enough gravity to rival Jool and Lindor, and disturb the minor worlds beyond their reach. As Nara crept into observable ranges, it seemed like just another KB member, but the lack of apparent velocity was on a magnitude of its own, revealing its potential to be gigantic.
 
 #### Amos
-The elusive innermost moon of Nara, Anon shares in the darker tones of Nara's surface and may have a unique composition if it is correctly judged just as a book may often be judged by its cover.
+The elusive innermost moon of Nara, Amos shares in the darker tones of Nara's surface and may have a unique composition if it is correctly judged just as a book may often be judged by its cover.
 
 #### Enon
 Little is to be expected other than flavors of ice when one ventures this far from home... But things can get interesting nonetheless, when one encounters a white moon nearly as large as Duna.
