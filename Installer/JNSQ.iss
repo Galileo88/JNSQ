@@ -14,16 +14,16 @@ AppVersion={#MyAppVersion}
 ;AppVerName={#MyAppName} {#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 DefaultDirName=C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData
-DefaultGroupName=JNSQ 0.3
+DefaultGroupName={#MyAppName} {#MyAppVersion}
 AllowNoIcons=yes
-LicenseFile=C:\Users\Tavish\Documents\GitHub\JNSQ\Installer\License.rtf
-InfoBeforeFile=C:\Users\Tavish\Documents\GitHub\JNSQ\Installer\README_INSTALLER.rtf
-InfoAfterFile=C:\Users\Tavish\Documents\GitHub\JNSQ\Installer\ThankYou.rtf
+LicenseFile=.\License.rtf
+InfoBeforeFile=.\README_INSTALLER.rtf
+InfoAfterFile=.\ThankYou.rtf
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
-;PrivilegesRequired=lowest
-OutputDir=C:\Users\Tavish\Desktop
-OutputBaseFilename=JNSQ 0.3
-SetupIconFile=C:\Users\Tavish\Documents\GitHub\JNSQ\Installer\TeamGalileo.ico
+PrivilegesRequired=lowest
+OutputDir=.
+OutputBaseFilename={#MyAppName} {#MyAppVersion}
+SetupIconFile=.\TeamGalileo.ico
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
@@ -54,6 +54,6 @@ Name: "turkish"; MessagesFile: "compiler:Languages\Turkish.isl"
 Name: "ukrainian"; MessagesFile: "compiler:Languages\Ukrainian.isl"
 
 [Files]
-Source: "C:\Users\Tavish\Documents\GitHub\JNSQ\GameData\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "..\GameData\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
