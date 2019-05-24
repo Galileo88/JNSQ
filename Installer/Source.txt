@@ -1,0 +1,3 @@
+Source code for the installer can be found here:
+
+https://github.com/jrsoftware/issrc
