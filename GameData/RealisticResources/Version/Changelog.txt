@@ -1,0 +1,6 @@
+Realistic Resources
+
+0.9
+
+* Pre-release
+* CRP supported
