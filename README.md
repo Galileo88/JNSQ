@@ -19,8 +19,8 @@ JNSQ introduces and bundles a new utility mod that depends on the Community Reso
 Compatibility for mods that expect the stock planets with default topology, biomes, order or radii is not to be expected and will not be provided by us.
 
 ## Provided Compatibility
-* Distant Objct Enhancement
-* Enironmental Visual Enhancements
+* Distant Object Enhancement
+* Environmental Visual Enhancements
 * Kerbal Health
 * Kerbalism
 * Kopernicus Expansion: Footprints
@@ -28,7 +28,7 @@ Compatibility for mods that expect the stock planets with default topology, biom
 * Planetshine
 * Realistic Resources
 * ResearchBodies
-* scatterer (very specifically 0.05x or newer, for KSP 1.6.1 or newer)
+* Scatterer (very specifically 0.05x or newer, for KSP 1.6.1 or newer)
 * Skybox via Sigma Replacements, DiRT, TextureReplacer
 * Strategia
 * Waypoint Manager
