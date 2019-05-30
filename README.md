@@ -26,6 +26,7 @@ Compatibility for mods that expect the stock planets with default topology, biom
 * Skybox via Sigma Replacements, DiRT, TextureReplacer
 * Strategia
 * Waypoint Manager
+* Kopernicus Expansion: Footprints
 
 ## Not provided
 * Kerbal Konstructs things
