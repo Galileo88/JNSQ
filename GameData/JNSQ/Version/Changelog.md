@@ -1,6 +1,7 @@
 # JNSQ
 
-## 0.?
+## 0.5
+:bookmark: *KSP 1.7.1  or newer*
 * Implemented changes necessary for Kopernicus 1.7.1.
 * Scatter updates.
 * Revised surface textures and tiling, deleted CTTP.
@@ -20,4 +21,5 @@
   * Added Minmus "brown" biomes 
   
 ## 0.4
+:bookmark: *KSP 1.7.0 or older*
 * Initial Release
