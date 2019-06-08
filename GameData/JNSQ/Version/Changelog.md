@@ -3,7 +3,7 @@
 ## 0.5
 :bookmark: *KSP 1.7.1  or newer*
 * Implemented changes necessary for Kopernicus 1.7.1.
-* Scatter updates.
+* Scatter updates, landClasses revisions.
 * Revised surface textures and tiling, deleted CTTP.
 * Disabled spherical mesh for some bodies.
 * Adjusted Kerbin's brightness, saturation and contrast.
