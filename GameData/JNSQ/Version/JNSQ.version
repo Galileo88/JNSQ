@@ -1,0 +1,28 @@
+{
+	"NAME":"JNSQ",
+	"DOWNLOAD":
+	"https://github.com/Galileo/JNSQ/releases",
+	"URL":
+	"https://github.com/Galileo/JNSQ/blob/master/GameData/JNSQ/Version/JNSQ.version",
+	"CHANGE_LOG_URL":"https://github.com/Galileo/JNSQ/blob/master/GameData/JNSQ/Version/Changelog.md",
+	"GITHUB":
+	{
+		"USERNAME":"JadeOfMaar",
+		"REPOSITORY":"https://github.com/Galileo/JNSQ",
+		"ALLOW_PRE_RELEASE":true,
+	},
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":4,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":7,
+		"PATCH":0
+	}
+}
+
