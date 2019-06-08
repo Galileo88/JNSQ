@@ -13,7 +13,8 @@
 * Modified orbit of Minmus; added alternate stable orbit for Principia.
 * Added compatibility patch for **Probes Before Crew**.
 * Made Kronometer compatible with ReScale (not currently updated for JNSQ).
-* Disable Kopernicus solar panel module.
+* Disabled Kopernicus solar panel module.
+* Updated Sigma-TweakChutes.
 * Updated Unity flare from placeholder to "Esther."
 * Updated biome maps:
   * Kerbin Northern Sea reaching south.
