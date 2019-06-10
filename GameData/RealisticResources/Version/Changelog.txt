@@ -1,8 +1,0 @@
-Realistic Resources
-
-0.8
-
-* Pre-release
-* CRP supported
-* Classic Stock supported
-* No ISRU configs
