@@ -1,0 +1,28 @@
+{
+	"NAME":"Rational Resources",
+	"DOWNLOAD":
+	"https://github.com/JadeOfMaar/RationalResources/releases",
+	"URL":
+	"https://github.com/JadeOfMaar/RationalResources/blob/master/GameData/RationalResources/Version/RationalResources.version",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/Changelog.md",
+	"GITHUB":
+	{
+		"USERNAME":"JadeOfMaar",
+		"REPOSITORY":"https://github.com/JadeOfMaar/RationalResources",
+		"ALLOW_PRE_RELEASE":true,
+	},
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":8,
+		"PATCH":5,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":7,
+		"PATCH":0
+	},
+}
+

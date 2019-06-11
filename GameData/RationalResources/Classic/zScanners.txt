@@ -1,0 +1,277 @@
+@PART[rr_scanner_green]
+{
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Ore
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Blutonuium
+		MaxAbundanceAltitude = 9000
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Gemstones
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	// MODULE
+	// {
+		// name = ModuleResourceScanner
+		// ScannerType = 0
+		// ResourceName = GeoEnergy
+		// MaxAbundanceAltitude = 1500
+		// RequiresUnlock = false
+	// }
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = GrayWater
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Hexagen
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Hydrokerbon
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Minerite
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Nitronite
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = PreciousMetals
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Rock
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Water
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Zeonium
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+}
+
+@PART[rr_scanner_blue]
+{
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 1
+		ResourceName = Explodium
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 1
+		ResourceName = GrayWater
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 1
+		ResourceName = Hexagen
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 1
+		ResourceName = Hydrokerbon
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 1
+		ResourceName = Water
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 1
+		ResourceName = Zeonium
+		RequiresUnlock = false
+	}
+}
+
+@PART[rr_scanner_white]
+{
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 2
+		ResourceName = Atmosphere
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 2
+		ResourceName = GrayWater
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 2
+		ResourceName = Hexagen
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 2
+		ResourceName = Hydrokerbon
+		RequiresUnlock = false
+	}
+	
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 2
+		ResourceName = Nitronite
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 2
+		ResourceName = Propellium
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 2
+		ResourceName = Water
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 2
+		ResourceName = Zeonium
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 2
+		ResourceName = XenonGas
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 3
+		ResourceName = Atmosphere
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 3
+		ResourceName = GrayWater
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 3
+		ResourceName = Hexagen
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 3
+		ResourceName = Hydrokerbon
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 3
+		ResourceName = Nitronite
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 3
+		ResourceName = Propellium
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 3
+		ResourceName = Rock
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 3
+		ResourceName = Zeonium
+		RequiresUnlock = false
+	}
+}

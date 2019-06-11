@@ -1,0 +1,60 @@
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = GrayWater
+	ResourceType = 1
+	PlanetName = None
+	Tag = OcnMethane
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 5
+		MaxAbundance = 5
+		Variance = 0
+		Dispersal = 0
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hydrokerbon
+	ResourceType = 1
+	PlanetName = None
+	Tag = OcnMethane
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 80
+		MaxAbundance = 85
+		Variance = 0
+		Dispersal = 0
+	}
+}
+// PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+// {
+	// ResourceName = Nitronite
+	// ResourceType = 1
+	// PlanetName = None
+	// Tag = OcnMethane
+	// Distribution
+	// {
+		// PresenceChance = 1000
+		// MinAbundance = 0
+		// MaxAbundance = 0
+		// Variance = 0
+		// Dispersal = 0
+	// }
+// }
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Zeonium
+	ResourceType = 1
+	PlanetName = None
+	Tag = OcnMethane
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 1
+		MaxAbundance = 3
+		Variance = 0
+		Dispersal = 0
+	}
+}

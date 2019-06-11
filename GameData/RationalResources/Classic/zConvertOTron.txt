@@ -1,0 +1,213 @@
+@PART[ISRU]
+{
+	!MODULE[ModuleOverheatDisplay] {}
+	!MODULE[ModuleCoreHeat] {}
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Lf?Ox]]
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[LiquidFuel]] {}
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Oxidizer]] {}
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[MonoPropellant]] {}
+	MODULE
+	{
+		name = WBIOmniConverter
+
+		//Name of the button displayed in the OpsManager
+		managedName = OmniConverter
+
+		//Name of the templates that the omni converter can use
+		templateNodes = OMNICONVERTER
+
+		//Tags to further refine the allowed converters
+//		templateTags =
+
+		//Base efficiency based on a 1000-liter converter volume.
+		//Smaller converters have lower efficiency while bigger converters have larger efficiencies.
+		//Example: a 500-liter converter has a BaseEfficiency of 0.5
+		BaseEfficiency = 2.0
+
+		//Reconfigure skill
+		reconfigureSkill = ConverterSkill
+
+		//Resource required to configure the converter
+		requiredResource = Equipment
+
+		//Amount of the required resource needed to reconfigure the converter
+		requiredAmount = 100
+
+		//Standard ModuleResourceConverter stuff
+		ConverterName = OmniConverter
+		StartActionName = Start Converter
+		StopActionName = Stop Converter
+		AutoShutdown = false
+		UseSpecialistBonus = true
+		SpecialistEfficiencyFactor = 0.2
+		SpecialistBonusBase = 0.05
+		ExperienceEffect = ConverterSkill
+		EfficiencyBonus = 2
+
+		showOpsView = true
+	}
+	MODULE:NEEDS[BARIS]
+	{
+		name = ModuleQualityControl
+		mtbf = 400
+	}
+}
+
+@PART[MiniISRU]
+{
+	!MODULE[ModuleOverheatDisplay] {}
+	!MODULE[ModuleCoreHeat] {}
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Lf?Ox]]
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[LiquidFuel]] {}
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Oxidizer]] {}
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[MonoPropellant]] {}
+	MODULE
+	{
+		name = WBIOmniConverter
+
+		//Name of the button displayed in the OpsManager
+		managedName = OmniConverter
+
+		//Name of the templates that the omni converter can use
+		templateNodes = OMNICONVERTER
+
+		//Tags to further refine the allowed converters
+//		templateTags =
+
+		//Base efficiency based on a 1000-liter converter volume.
+		//Smaller converters have lower efficiency while bigger converters have larger efficiencies.
+		//Example: a 500-liter converter has a BaseEfficiency of 0.5
+		BaseEfficiency = 1.0
+
+		//Reconfigure skill
+		reconfigureSkill = ConverterSkill
+
+		//Resource required to configure the converter
+		requiredResource = Equipment
+
+		//Amount of the required resource needed to reconfigure the converter
+		requiredAmount = 100
+
+		//Standard ModuleResourceConverter stuff
+		ConverterName = OmniConverter
+		StartActionName = Start Converter
+		StopActionName = Stop Converter
+		AutoShutdown = false
+		UseSpecialistBonus = true
+		SpecialistEfficiencyFactor = 0.2
+		SpecialistBonusBase = 0.05
+		ExperienceEffect = ConverterSkill
+		EfficiencyBonus = 1
+
+		showOpsView = true
+	}
+	MODULE:NEEDS[BARIS]
+	{
+		name = ModuleQualityControl
+		mtbf = 400
+	}
+}
+
+@PART[rr_boxblue_long]
+{
+	!MODULE[ModuleOverheatDisplay] {}
+	!MODULE[ModuleCoreHeat] {}
+	!MODULE[ModuleResourceConverter],* {}
+	MODULE
+	{
+		name = WBIOmniConverter
+
+		//Name of the button displayed in the OpsManager
+		managedName = OmniConverter
+
+		//Name of the templates that the omni converter can use
+		templateNodes = OMNICONVERTER
+
+		//Tags to further refine the allowed converters
+//		templateTags =
+
+		//Base efficiency based on a 1000-liter converter volume.
+		//Smaller converters have lower efficiency while bigger converters have larger efficiencies.
+		//Example: a 500-liter converter has a BaseEfficiency of 0.5
+		BaseEfficiency = 2.0
+
+		//Reconfigure skill
+		reconfigureSkill = ConverterSkill
+
+		//Resource required to configure the converter
+		requiredResource = Equipment
+
+		//Amount of the required resource needed to reconfigure the converter
+		requiredAmount = 100
+
+		//Standard ModuleResourceConverter stuff
+		ConverterName = OmniConverter
+		StartActionName = Start Converter
+		StopActionName = Stop Converter
+		AutoShutdown = false
+		UseSpecialistBonus = true
+		SpecialistEfficiencyFactor = 0.2
+		SpecialistBonusBase = 0.05
+		ExperienceEffect = ConverterSkill
+		EfficiencyBonus = 2
+
+		showOpsView = true
+	}
+	MODULE:NEEDS[BARIS]
+	{
+		name = ModuleQualityControl
+		mtbf = 400
+	}
+}
+
+@PART[rr_boxblue,rr_boxblue_flat]
+{
+	!MODULE[ModuleOverheatDisplay] {}
+	!MODULE[ModuleCoreHeat] {}
+	!MODULE[ModuleResourceConverter]:,*
+	MODULE
+	{
+		name = WBIOmniConverter
+
+		//Name of the button displayed in the OpsManager
+		managedName = OmniConverter
+
+		//Name of the templates that the omni converter can use
+		templateNodes = OMNICONVERTER
+
+		//Tags to further refine the allowed converters
+//		templateTags =
+
+		//Base efficiency based on a 1000-liter converter volume.
+		//Smaller converters have lower efficiency while bigger converters have larger efficiencies.
+		//Example: a 500-liter converter has a BaseEfficiency of 0.5
+		BaseEfficiency = 1.0
+
+		//Reconfigure skill
+		reconfigureSkill = ConverterSkill
+
+		//Resource required to configure the converter
+		requiredResource = Equipment
+
+		//Amount of the required resource needed to reconfigure the converter
+		requiredAmount = 100
+
+		//Standard ModuleResourceConverter stuff
+		ConverterName = OmniConverter
+		StartActionName = Start Converter
+		StopActionName = Stop Converter
+		AutoShutdown = false
+		UseSpecialistBonus = true
+		SpecialistEfficiencyFactor = 0.2
+		SpecialistBonusBase = 0.05
+		ExperienceEffect = ConverterSkill
+		EfficiencyBonus = 1
+
+		showOpsView = true
+	}
+	MODULE:NEEDS[BARIS]
+	{
+		name = ModuleQualityControl
+		mtbf = 400
+	}
+}

@@ -1,0 +1,95 @@
+@PART[airScoop]
+{
+	MODULE
+	{
+		name = WBIModuleResourceHarvester
+
+		//HarvesterType and ResourceName will be overriden by harvestTypes. See below.
+		HarvesterType = 2 //Atmospheric
+		ResourceName = Atmosphere
+
+		// List of harvest types: Planetary, Oceanic, Atmospheric, Exospheric. You can have more than one harvest type. Separate the types with a semicolon.
+		// This overrides HarversterType from the base class. There is a precedence based on vessel situation and supported harvest types:
+		// Landed: Atmospheric before Planetary
+		// Splashed: Oceanic before Planetary
+		// In space: Exospheric before Atmospheric
+		harvestTypes = Atmospheric;Oceanic
+
+		AutoShutdown = true
+		ConverterName = Aero/Hydro Scoop
+		StartActionName = Start Aero/Hydro Scoop
+		StopActionName = Stop Aero/Hydro Scoop
+		ToggleActionName = Toggle Aero/Hydro Scoop
+		intakeTransformName = Intake
+		intakeSpeed = 10
+		airStaticSpeed = 10
+
+		INPUT_RESOURCE
+		{
+			ResourceName = ElectricCharge
+			Ratio = 1
+		}
+	}
+
+	MODULE:NEEDS[BARIS]
+	{
+		name = ModuleQualityControl
+		mtbf = 400
+	}
+	
+	RESOURCE
+	{
+		name = IntakeLqd
+		amount = 1
+		maxAmount = 1
+	}
+}
+
+@PART[rr_exoscoop]
+{
+	MODULE
+	{
+		name = WBIModuleResourceHarvester
+
+		//HarvesterType and ResourceName will be overriden by harvestTypes. See below.
+		HarvesterType = 2 //Atmospheric
+		ResourceName = Atmosphere
+
+		// List of harvest types: Planetary, Oceanic, Atmospheric, Exospheric. You can have more than one harvest type. Separate the types with a semicolon.
+		// This overrides HarversterType from the base class. There is a precedence based on vessel situation and supported harvest types:
+		// Landed: Atmospheric before Planetary
+		// Splashed: Oceanic before Planetary
+		// In space: Exospheric before Atmospheric
+		harvestTypes = Exospheric
+
+		AutoShutdown = true
+		ConverterName = Exo Scoop
+		StartActionName = Start Exo Scoop
+		StopActionName = Stop Exo Scoop
+		ToggleActionName = Toggle Exo Scoop
+		intakeTransformName = Intake
+		intakeSpeed = 60
+		airStaticSpeed = 60
+
+		INPUT_RESOURCE
+		{
+			ResourceName = ElectricCharge
+			Ratio = 10
+		}
+	}
+
+	MODULE
+	{
+		name = ModuleResourceScanner
+		MaxAbundanceAltitude = 5000000
+		RequiresUnlock = true
+		ScannerType = 3
+		ResourceName = Atmosphere
+	}
+
+	MODULE:NEEDS[BARIS]
+	{
+		name = ModuleQualityControl
+		mtbf = 400
+	}
+}

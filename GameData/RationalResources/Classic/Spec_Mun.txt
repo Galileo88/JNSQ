@@ -1,0 +1,210 @@
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Blutonium
+	ResourceType = 0
+	PlanetName = Mun
+	Tag = Specific
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 1
+		MaxAbundance = 3
+		Variance = 50
+		Dispersal = 10
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Gemstones
+	ResourceType = 0
+	PlanetName = Mun
+	Tag = Specific
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 2
+		MaxAbundance = 3
+		Variance = 50
+		Dispersal = 10
+	}
+}
+// PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+// {
+	// ResourceName = GrayWater
+	// ResourceType = 0
+	// PlanetName = Mun
+	// Tag = Specific
+	// Distribution
+	// {
+		// PresenceChance = 90
+		// MinAbundance = 3
+		// MaxAbundance = 4
+		// Variance = 20
+		// Dispersal = 3
+	// }
+// }
+// PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+// {
+	// ResourceName = Hexagen
+	// ResourceType = 0
+	// PlanetName = Mun
+	// Tag = Specific
+	// Distribution
+	// {
+		// PresenceChance = 90
+		// MinAbundance = 0.5
+		// MaxAbundance = 4
+		// Variance = 50
+		// Dispersal = 10
+	// }
+// }
+// PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+// {
+	// ResourceName = Hydrokerbon
+	// ResourceType = 0
+	// PlanetName = Mun
+	// Tag = Specific
+	// Distribution
+	// {
+		// PresenceChance = 0
+		// MinAbundance = 0
+		// MaxAbundance = 0
+		// Variance = 20
+		// Dispersal = 3
+	// }
+// }
+PLANETARY_RESOURCE
+{
+	ResourceName = MetalOre
+	ResourceType = 0
+	PlanetName = Mun
+	Tag = Specific
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 7
+		MaxAbundance = 15
+		Variance = 50
+		Dispersal = 10
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Mun
+	Tag = Specific
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 2
+		MaxAbundance = 7
+		Variance = 50
+		Dispersal = 10
+	}
+}
+// PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+// {
+	// ResourceName = Nitronite
+	// ResourceType = 0
+	// PlanetName = Mun
+	// Tag = Specific
+	// Distribution
+	// {
+		// PresenceChance = 90
+		// MinAbundance = 2
+		// MaxAbundance = 7
+		// Variance = 20
+		// Dispersal = 10
+	// }
+// }
+PLANETARY_RESOURCE
+{
+	ResourceName = Ore
+	ResourceType = 0
+	PlanetName = Mun
+	Tag = Specific
+	Distribution
+	{
+		PresenceChance = 80
+		MinAbundance = 1
+		MaxAbundance = 3
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Oxium
+	ResourceType = 0
+	PlanetName = Mun
+	Tag = Specific
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 20
+		MaxAbundance = 30
+		Variance = 20
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = PreciousMetals
+	ResourceType = 0
+	PlanetName = Mun
+	Tag = Specific
+	Distribution
+	{
+		PresenceChance = 80
+		MinAbundance = 1
+		MaxAbundance = 7
+		Variance = 50
+		Dispersal = 10
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Rock
+	ResourceType = 0
+	PlanetName = Mun
+	Tag = Specific
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 6
+		MaxAbundance = 13
+		Variance = 10
+		Dispersal = 3
+	}
+}
+// PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+// {
+	// ResourceName = Water
+	// ResourceType = 0
+	// PlanetName = Mun
+	// Tag = Specific
+	// Distribution
+	// {
+		// PresenceChance = 0
+		// MinAbundance = 0
+		// MaxAbundance = 0
+		// Variance = 20
+		// Dispersal = 3
+	// }
+// }
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Zeonium
+	ResourceType = 0
+	PlanetName = Mun
+	Tag = Specific
+	Distribution
+	{
+		PresenceChance = 90
+		MinAbundance = 0.5
+		MaxAbundance = 3
+		Variance = 50
+		Dispersal = 10
+	}
+}
