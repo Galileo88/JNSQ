@@ -1,14 +1,14 @@
 {
 	"NAME":"JNSQ",
 	"DOWNLOAD":
-	"https://github.com/Galileo/JNSQ/releases",
+	"https://github.com/Galileo88/JNSQ/releases",
 	"URL":
-	"https://github.com/Galileo/JNSQ/blob/master/GameData/JNSQ/Version/JNSQ.version",
-	"CHANGE_LOG_URL":"https://github.com/Galileo/JNSQ/blob/master/GameData/JNSQ/Version/Changelog.md",
+	"https://github.com/Galileo88/JNSQ/blob/master/GameData/JNSQ/Version/JNSQ.version",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/Galileo88/JNSQ/master/GameData/JNSQ/Version/Changelog.md",
 	"GITHUB":
 	{
-		"USERNAME":"JadeOfMaar",
-		"REPOSITORY":"https://github.com/Galileo/JNSQ",
+		"USERNAME":"Galileo88",
+		"REPOSITORY":"https://github.com/Galileo88/JNSQ",
 		"ALLOW_PRE_RELEASE":true,
 	},
 	"VERSION":

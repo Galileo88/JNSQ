@@ -14,8 +14,12 @@
 * Added compatibility patch for **Probes Before Crew**.
 * Made Kronometer compatible with ReScale (not currently updated for JNSQ).
 * Disabled Kopernicus solar panel module.
+* Very slight update to dV map: swapped locations of "Total" and "Low Orb Ins"
 * Updated Sigma-TweakChutes.
-* Updated Unity flare from placeholder to "Esther."
+* Sunflare:
+  * Updated Unity version to resemble scatterer version.
+  * Added toggle in `JNSQ\JNSQ_Configs\SunflareMode.cfg`
+  * Added condition for ghost-less Unity sunflare. Create folder "JNSQNoGhosts" in GameData.
 * Updated biome maps:
   * Kerbin Northern Sea reaching south.
   * Unwanted Shores and Arctic Sea at the southern ice cap.
