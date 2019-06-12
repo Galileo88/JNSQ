@@ -10,6 +10,7 @@ Many KSP modders have considered that while the stock parts (namely, engines) ar
 ## Notes
 * **Sigma Dimensions** and **Rescale!** are not required for JNSQ to function, and are discouraged from use alongside JNSQ.
 * When starting new saves under JNSQ, we advise that you enter Difficulty Settings and raise the antenna range and DSN modifiers to 4x.
+* The LV-TX87 and LV-T91 engines have had their thrust, mass and cost increased 25% and 20% respectively. This change was deemed necessary to assure they can lift a Mk2 command pod and service module to low orbit at JNSQ's larger scale.
 * JNSQ retains the stockalike Kerbin-Mun-Minmus system to conform to game elements outside or our control, such as the built-in contract system.  Be advised, however, this configuration is unstable.  For users of the mod Principia, the orbit of Minmus is moved inside that of Mun to provide orbital stability.
 
 ## Disclaimer / Barrier to Entry
