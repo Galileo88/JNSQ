@@ -1,5 +1,7 @@
 # JNSQ
 
+## 0.6 Change log
+ * Fix sun flare exposure with scatterer installed.
 ## 0.5
 :bookmark: *KSP 1.7.1  or newer*
 * Implemented changes necessary for Kopernicus 1.7.1.
