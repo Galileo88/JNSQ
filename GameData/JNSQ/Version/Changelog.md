@@ -30,6 +30,7 @@
   * Removed unwanted Shores and Arctic Sea at the southern ice cap.
   * Added Minmus "brown" biomes.
   * Krenwich Delta renamed to Krenwich Sea (Kerbin, Laythe).
+* Added CelestialBodies.pdf
   
 ## 0.4
 :bookmark: *KSP 1.7.0 or older*
