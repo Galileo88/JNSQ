@@ -7,6 +7,8 @@
 * Added **Breaking Ground** DLC terrain objects.
 * Added RemoteTech support, donated by DanShuTV on Twitch.
 * Added compatibility patch for **Probes Before Crew**.
+* Added optional mods:
+  * FinalFrontier ribbons.
 * Revised surface textures and tiling, deleted CTTP.
 * Disabled spherical mesh for some bodies.
 * Adjusted Kerbin's brightness, saturation and contrast.
