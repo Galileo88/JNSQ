@@ -16,13 +16,14 @@
 * Disabled Kopernicus solar panel module.
 * Very slight update to dV map: swapped locations of "Total" and "Low Orb Ins"
 * Updated Sigma-TweakChutes.
+* Replaced __Realistic Resources__ bundle with __Rational Resources__. Please uninstall the former if it is present.
 * Sunflare:
   * Updated Unity version to resemble scatterer version.
   * Added toggle in `JNSQ\JNSQ_Configs\SunflareMode.cfg`
-  * Added condition for ghost-less Unity sunflare. Create folder "JNSQNoGhosts" in GameData.
+  * Added condition for ghost-less Unity sunflare. Create folder "JNSQNoGhosts" in GameData to activate it.
 * Updated biome maps:
-  * Kerbin Northern Sea reaching south.
-  * Unwanted Shores and Arctic Sea at the southern ice cap.
+  * Fixed Kerbin Northern Sea reaching south.
+  * Removed unwanted Shores and Arctic Sea at the southern ice cap.
   * Added Minmus "brown" biomes.
   * Krenwich Delta renamed to Krenwich Sea (Kerbin, Laythe).
   
