@@ -3,20 +3,22 @@
 ## 0.5
 :bookmark: *KSP 1.7.1  or newer*
 * Implemented changes necessary for Kopernicus 1.7.1.
-* Scatter updates, landClasses revisions.
+* Ground scatter updates, landClasses revisions.
+* Added **Breaking Ground** DLC terrain objects.
+* Added RemoteTech support, donated by DanShuTV on Twitch.
+* Added compatibility patch for **Probes Before Crew**.
 * Revised surface textures and tiling, deleted CTTP.
 * Disabled spherical mesh for some bodies.
 * Adjusted Kerbin's brightness, saturation and contrast.
 * Darkened surface of Dres.
 * Retextured Minmus and Hamek; new biomes.
-* Fixed MechJeb2 config.
 * Modified orbit of Minmus; added alternate stable orbit for Principia.
-* Added compatibility patch for **Probes Before Crew**.
 * Made Kronometer compatible with ReScale (not currently updated for JNSQ).
 * Disabled Kopernicus solar panel module.
 * Very slight update to dV map: swapped locations of "Total" and "Low Orb Ins"
 * Updated Sigma-TweakChutes.
-* Replaced __Realistic Resources__ bundle with __Rational Resources__. Please uninstall the former if it is present.
+* Fixed MechJeb2 config.
+* Replaced **Realistic Resources** bundle with **Rational Resources**. Please uninstall the former if it is present.
 * Sunflare:
   * Updated Unity version to resemble scatterer version.
   * Added toggle in `JNSQ\JNSQ_Configs\SunflareMode.cfg`
