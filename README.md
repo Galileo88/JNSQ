@@ -27,7 +27,7 @@ Compatibility for mods that expect the stock planets with default topology, biom
 * Kopernicus Expansion: Footprints
 * MechJeb
 * Planetshine
-* Realistic Resources
+* Rational Resources
 * ResearchBodies
 * Scatterer (very specifically 0.05x or newer, for KSP 1.6.1 or newer)
 * Skybox via Sigma Replacements, DiRT, TextureReplacer
@@ -57,4 +57,4 @@ Compatibility for mods that expect the stock planets with default topology, biom
 
 ## Licensing
 * JNSQ is licensed by Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0).
-* Realistic Resources, bundled, is licensed MIT.
+* Rational Resources, bundled, is licensed MIT.
