@@ -1,0 +1,87 @@
+@SigmaReplacements:HAS[~preserveOriginals[True]]:FOR[GPP]:NEEDS[KerbalRenamer]
+{
+	MunSceneKerbal
+	{
+		index = 0  // Kerbal in the mun scene
+		Stats
+		{
+			name = Bobert Gaelan
+		}
+	}
+	OrbitSceneKerbal
+	{
+		index = 0  // Upside-down Kerbal in the orbit scene
+		Stats
+		{
+			name = Jade Gaelan
+		}
+	}
+	OrbitSceneKerbal
+	{
+		index = 1 // Sideways Kerbal in the orbit scene
+		Stats
+		{
+			name = Bobert Gaelan
+		}
+	}
+	OrbitSceneKerbal
+	{
+		index = 2 // Central Kerbal in the orbit scene
+		Stats
+		{
+			name = Galileo Gaelan
+		}
+	}
+	OrbitSceneKerbal
+	{
+		index = 3  // Female Kerbal in the orbit scene
+		Stats
+		{
+			name = Poody Gaelan
+		}
+	}
+}
+
+@SigmaReplacements:HAS[#preserveOriginals[True]]:FOR[GPP]:NEEDS[KerbalRenamer]
+{
+	MunSceneKerbal
+	{
+		index = 0  // Kerbal in the mun scene
+		Stats
+		{
+			name = Bob Gaelan
+		}
+	}
+	OrbitSceneKerbal
+	{
+		index = 0  // Upside-down Kerbal in the orbit scene
+		Stats
+		{
+			name = Bill Gaelan
+		}
+	}
+	OrbitSceneKerbal
+	{
+		index = 1 // Sideways Kerbal in the orbit scene
+		Stats
+		{
+			name = Bob Gaelan
+		}
+	}
+	OrbitSceneKerbal
+	{
+		index = 2 // Central Kerbal in the orbit scene
+		Stats
+		{
+			name = Jebediah Gaelan
+		}
+	}
+	OrbitSceneKerbal
+	{
+		index = 3  // Female Kerbal in the orbit scene
+		Stats
+		{
+			name = Valentina Gaelan
+		}
+	}
+}
