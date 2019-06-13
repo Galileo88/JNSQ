@@ -1,5 +1,7 @@
 # JNSQ
 
+## 0.65 Change log
+ * Fix issues with chute not deploying.
 ## 0.6 Change log
  * Fix sun flare exposure with scatterer installed.
 ## 0.5
