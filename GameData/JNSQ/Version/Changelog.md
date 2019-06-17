@@ -5,6 +5,7 @@
  * Adjust the distance in which scatter objects are rendered, including BG scatter to ensure better performance.
  * Fixed Duna Scatterer exposure and high altitude pop in.
  * Adjusted RationalResources to make sure the ore tanks only avctivate if CRP is present.
+ * New ocean texture for Kerbin, Eve and Laythe. Does not show when Scatterer is installed.
 ## 0.65 Change log
  * Fix issues with chute not deploying.
 ## 0.6 Change log
