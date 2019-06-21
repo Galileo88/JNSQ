@@ -12,16 +12,10 @@
       "homepage":"https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
       "repository":"https://github.com/Galileo88/JNSQ"
    },
-   "provides":[  
-      "EnvironmentalVisualEnhancements-Config"
-   ],
-   "provides":[  
-      "Scatterer-sunflare"
-   ],
-   "provides":[  
-      "DistantObject-config"
-   ],
-   "provides":[  
+  "provides":[
+      "EnvironmentalVisualEnhancements-Config",
+      "Scatterer-sunflare",
+      "DistantObject-config",
       "PlanetShine-Config"
    ],
    "depends":[  
