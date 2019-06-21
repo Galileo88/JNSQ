@@ -4,7 +4,7 @@
    "name":"JNSQ",
    "abstract":"A a 1/4 real scale, reimagined stock planet pack",
    "$kref":"#/ckan/github/Galileo88/JNSQ/asset_match/JNSQ\\..*.zip",
-   "$vref": "#/ckan/ksp-avc/GameData/JNSQ/Version/JNSQ.version",
+   "$vref":"#/ckan/ksp-avc/GameData/JNSQ/Version/JNSQ.version",
    "author":"Team Galileo",
    "license":"CC-BY-NC-ND-3.0",
    "release_status":"stable",
@@ -12,7 +12,7 @@
       "homepage":"https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
       "repository":"https://github.com/Galileo88/JNSQ"
    },
-   "provides":[
+   "provides":[  
       "EnvironmentalVisualEnhancements-Config",
       "Scatterer-sunflare",
       "DistantObject-config",
@@ -30,7 +30,7 @@
       {  
          "name":"Scatterer"
       },
-	  {  
+      {  
          "name":"EnvironmentalVisualEnhancements"
       },
       {  
@@ -56,22 +56,22 @@
       {  
          "name":"StockVisualEnhancements"
       },
-	  {  
+      {  
          "name":"Spectra"
       },
-	  {  
+      {  
          "name":"AstronomersVisualPack"
       },
-	  {  
+      {  
          "name":"SciFiVisualEnhancements"
       },
-	  {  
+      {  
          "name":"DistantObject-RealSolarSystem"
       },
-	  {  
+      {  
          "name":"PlanetShine-Config"
       },
-	  {  
+      {  
          "name":"CustomBarnKit-RO"
       }
    ],
