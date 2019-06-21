@@ -18,6 +18,12 @@
    "provides":[  
       "Scatterer-sunflare"
    ],
+   "provides":[  
+      "DistantObject-config"
+   ],
+   "provides":[  
+      "PlanetShine-Config"
+   ],
    "depends":[  
       {  
          "name":"ModuleManager"
@@ -68,7 +74,15 @@
 	  {  
          "name":"Scatterer-sunflare"
       },
-	  
+	  {  
+         "name":"DistantObject-config"
+      },
+	  {  
+         "name":"DistantObject-RealSolarSystem"
+      },
+	  {  
+         "name":"PlanetShine-Config"
+      }
    ],
    "install":[  
       {  
