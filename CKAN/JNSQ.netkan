@@ -1,66 +1,66 @@
-{
-    "spec_version": "v1.4",
-    "identifier": "JNSQ",
-    "name": "JNSQ",
-    "abstract": "A a 1/4 real scale, reimagined stock planet pack",
-	"$kref": "#/ckan/github/Galileo88/JNSQ/asset_match/JNSQ.*.zip",
-    "ksp_version" : "1.7.1",
-    "author": "Team Galileo",
-    "license": "CC-BY-NC-ND-3.0",
-    "release_status": "stable",
-    "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
-        "repository": "https://github.com/Galileo88/JNSQ"
-    },
-    "provides": [
-        "EnvironmentalVisualEnhancements-Config"
-    ],
-    "depends": [
-        {
-            "name": "ModuleManager"
-        },
-        {
-            "name": "Kopernicus"
-        }
-    ],
-    "recommends": [
-        {
-            "name": "Scatterer"
-        },
-        {
-            "name": "DistantObject"
-        },
-        {
-            "name": "PlanetShine"
-        },
-		{
-            "name": "Strategia"
-        },
-		{
-            "name": "FinalFrontier"
-        },
-		{
-            "name": "SigmaReplacements-SkyBox"
-        }
-    ],
-    "conflicts": [
-        {
-            "name": "EnvironmentalVisualEnhancements-Config"
-        },
-		{
-            "name": "StockVisualEnhancements"
-        }
-    ],
-    "install": [
-        {
-            "find": "GameData/JNSQ",
-            "install_to": "GameData",
-			"comment": "This correctly installs JNSQ"
-        },
-		{
-            "find": "GameData/RationalResources",
-            "install_to": "GameData",
-			"comment": "This correctly installs Rational Resources for JNSQ"
-        }
-    ],
+{  
+   "spec_version":"v1.4",
+   "identifier":"JNSQ",
+   "name":"JNSQ",
+   "abstract":"A a 1/4 real scale, reimagined stock planet pack",
+   "$kref":"#/ckan/github/Galileo88/JNSQ/asset_match/JNSQ.*.zip",
+   "ksp_version":"1.7.1",
+   "author":"Team Galileo",
+   "license":"CC-BY-NC-ND-3.0",
+   "release_status":"stable",
+   "resources":{  
+      "homepage":"https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
+      "repository":"https://github.com/Galileo88/JNSQ"
+   },
+   "provides":[  
+      "EnvironmentalVisualEnhancements-Config"
+   ],
+   "depends":[  
+      {  
+         "name":"ModuleManager"
+      },
+      {  
+         "name":"Kopernicus"
+      }
+   ],
+   "recommends":[  
+      {  
+         "name":"Scatterer"
+      },
+      {  
+         "name":"DistantObject"
+      },
+      {  
+         "name":"PlanetShine"
+      },
+      {  
+         "name":"Strategia"
+      },
+      {  
+         "name":"FinalFrontier"
+      },
+      {  
+         "name":"SigmaReplacements-SkyBox"
+      }
+   ],
+   "conflicts":[  
+      {  
+         "name":"EnvironmentalVisualEnhancements-Config"
+      },
+      {  
+         "name":"StockVisualEnhancements"
+      }
+   ],
+   "install":[  
+      {  
+         "find":"GameData/JNSQ",
+         "install_to":"GameData",
+         "comment":"This correctly installs JNSQ"
+      },
+      {  
+         "find":"GameData/RationalResources",
+         "install_to":"GameData",
+         "comment":"This correctly installs Rational Resources for JNSQ"
+      }
+   ]
 }
