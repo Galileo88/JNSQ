@@ -22,7 +22,7 @@
       "Scatterer-sunflare"
    ],
    "provides":[  
-      "PlanetShine-Config-Default"
+      "PlanetShine-Config"
    ],
    "depends":[  
       {  
@@ -32,7 +32,7 @@
          "name":"Kopernicus"
       }
    ],
-   "suggests":[  
+   "recommends":[  
       {  
          "name":"Scatterer"
       },
@@ -60,7 +60,13 @@
          "name":"StockVisualEnhancements"
       },
 	  {  
-         "name":"DistantObject-RealSolarSystem"
+         "name":"Spectra"
+      },
+	  {  
+         "name":"AstronomersVisualPack"
+      },
+	  {  
+         "name":"SciFiVisualEnhancements"
       }
    ],
    "install":[  
