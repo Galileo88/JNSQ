@@ -32,7 +32,7 @@
          "name":"Kopernicus"
       }
    ],
-   "recommends":[  
+   "suggests":[  
       {  
          "name":"Scatterer"
       },
