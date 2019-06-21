@@ -70,6 +70,9 @@
       },
 	  {  
          "name":"PlanetShine-Config"
+      },
+	  {  
+         "name":"CustomBarnKit-RO"
       }
    ],
    "install":[  
