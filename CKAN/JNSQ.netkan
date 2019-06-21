@@ -72,10 +72,7 @@
          "name":"SciFiVisualEnhancements"
       },
 	  {  
-         "name":"Scatterer-sunflare"
-      },
-	  {  
-         "name":"DistantObject-config"
+         "name":"KabramsSunFlaresPack*"
       },
 	  {  
          "name":"DistantObject-RealSolarSystem"
