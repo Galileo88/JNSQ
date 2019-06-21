@@ -4,7 +4,7 @@
    "name":"JNSQ",
    "abstract":"A a 1/4 real scale, reimagined stock planet pack",
    "$kref":"#/ckan/github/Galileo88/JNSQ/asset_match/JNSQ.*.zip",
-   "ksp_version":"1.7.1",
+   "$vref": "#/ckan/https://raw.githubusercontent.com/Galileo88/JNSQ/master/GameData/JNSQ/Version/JNSQ.version",
    "author":"Team Galileo",
    "license":"CC-BY-NC-ND-3.0",
    "release_status":"stable",
@@ -14,12 +14,6 @@
    },
    "provides":[  
       "EnvironmentalVisualEnhancements-Config"
-   ],
-   "provides":[  
-      "DistantObject-config"
-   ],
-   "provides":[  
-      "PlanetShine-Config"
    ],
    "depends":[  
       {  
@@ -33,6 +27,9 @@
       {  
          "name":"Scatterer"
       },
+	  {  
+         "name":"EnvironmentalVisualEnhancements"
+      },
       {  
          "name":"DistantObject"
       },
@@ -44,9 +41,6 @@
       },
       {  
          "name":"FinalFrontier"
-      },
-	  {  
-         "name":"EnvironmentalVisualEnhancements"
       },
       {  
          "name":"TextureReplacer"
@@ -70,12 +64,6 @@
       },
 	  {  
          "name":"PlanetShine-Config"
-      },
-	  {  
-         "name":"EnvironmentalVisualEnhancements-Config"
-      },
-	  {  
-         "name":"DistantObject-config"
       }
    ],
    "install":[  
