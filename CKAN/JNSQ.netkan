@@ -79,7 +79,7 @@
       },
 	  {  
          "name":"DistantObject-config"
-      },
+      }
    ],
    "install":[  
       {  
