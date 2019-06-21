@@ -15,6 +15,9 @@
    "provides":[  
       "EnvironmentalVisualEnhancements-Config"
    ],
+   "provides":[  
+      "Scatterer-sunflare"
+   ],
    "depends":[  
       {  
          "name":"ModuleManager"
@@ -61,7 +64,11 @@
       },
 	  {  
          "name":"SciFiVisualEnhancements"
-      }
+      },
+	  {  
+         "name":"Scatterer-sunflare"
+      },
+	  
    ],
    "install":[  
       {  
