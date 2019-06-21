@@ -48,6 +48,9 @@
       {  
          "name":"FinalFrontier"
       },
+	  {  
+         "name":"EnvironmentalVisualEnhancements"
+      },
       {  
          "name":"TextureReplacer"
       }
