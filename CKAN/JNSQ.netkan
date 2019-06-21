@@ -23,7 +23,7 @@
          "name":"Kopernicus"
       }
    ],
-   "recommends":[  
+   "suggests":[  
       {  
          "name":"Scatterer"
       },
@@ -40,7 +40,7 @@
          "name":"FinalFrontier"
       },
       {  
-         "name":"SigmaReplacements-SkyBox"
+         "name":"TextureReplacer"
       }
    ],
    "conflicts":[  
@@ -49,6 +49,9 @@
       },
       {  
          "name":"StockVisualEnhancements"
+      },
+	  {  
+         "name":"DistantObject-RealSolarSystem"
       }
    ],
    "install":[  
