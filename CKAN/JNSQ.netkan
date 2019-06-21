@@ -15,6 +15,12 @@
    "provides":[  
       "EnvironmentalVisualEnhancements-Config"
    ],
+   "provides":[  
+      "DistantObject-config"
+   ],
+   "provides":[  
+      "Scatterer-sunflare"
+   ],
    "depends":[  
       {  
          "name":"ModuleManager"
