@@ -4,7 +4,7 @@
    "name":"JNSQ",
    "abstract":"A a 1/4 real scale, reimagined stock planet pack",
    "$kref":"#/ckan/github/Galileo88/JNSQ/asset_match/JNSQ.*.zip",
-   "$vref": "#/ckan/https://raw.githubusercontent.com/Galileo88/JNSQ/master/GameData/JNSQ/Version/JNSQ.version",
+   "$vref": "#/ckan/ksp-avc/GameData/JNSQ/Version/JNSQ.version",
    "author":"Team Galileo",
    "license":"CC-BY-NC-ND-3.0",
    "release_status":"stable",
@@ -70,9 +70,6 @@
       },
 	  {  
          "name":"SciFiVisualEnhancements"
-      },
-	  {  
-         "name":"KabramsSunFlaresPack*"
       },
 	  {  
          "name":"DistantObject-RealSolarSystem"
