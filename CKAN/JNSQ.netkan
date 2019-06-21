@@ -3,6 +3,8 @@
     "identifier": "JNSQ",
     "name": "JNSQ",
     "abstract": "A a 1/4 real scale, reimagined stock planet pack",
+	"$kref": "#/ckan/github/Galileo88/JNSQ/asset_match/JNSQ.*.zip",
+    "ksp_version" : "1.7.1",
     "author": "Team Galileo",
     "license": "CC-BY-NC-ND-3.0",
     "release_status": "stable",
@@ -10,16 +12,6 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
         "repository": "https://github.com/Galileo88/JNSQ"
     },
-    "version": "0.7",
-    "ksp_version": "1.7.1",
-    "localizations": [
-        "en-us",
-        "es-us",
-        "es-mx",
-        "ja",
-        "ru",
-        "zh-cn"
-    ],
     "provides": [
         "EnvironmentalVisualEnhancements-Config"
     ],
@@ -41,13 +33,13 @@
         {
             "name": "PlanetShine"
         },
-        {
+		{
             "name": "Strategia"
         },
-        {
+		{
             "name": "FinalFrontier"
         },
-        {
+		{
             "name": "SigmaReplacements-SkyBox"
         }
     ],
@@ -55,7 +47,7 @@
         {
             "name": "EnvironmentalVisualEnhancements-Config"
         },
-        {
+		{
             "name": "StockVisualEnhancements"
         }
     ],
@@ -63,20 +55,12 @@
         {
             "find": "GameData/JNSQ",
             "install_to": "GameData",
-            "comment": "This correctly installs JNSQ"
+			"comment": "This correctly installs JNSQ"
         },
-        {
+		{
             "find": "GameData/RationalResources",
             "install_to": "GameData",
-            "comment": "This correctly installs Rational Resources for JNSQ"
+			"comment": "This correctly installs Rational Resources for JNSQ"
         }
     ],
-    "download": "https://github.com/Galileo88/JNSQ/releases/download/0.7/JNSQ.0.7.zip",
-    "download_size": 1917357925,
-    "download_hash": {
-        "sha1": "8B29450EE7E7C2686CEC19D1809CB8BAEAE3BFE7",
-        "sha256": "5F7B506DB7FA582E4F7A1615A0E7A38331C69210602659BCBE5A71B1C2CCBD44"
-    },
-    "download_content_type": "application/zip",
-    "x_generated_by": "netkan"
 }
