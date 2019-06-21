@@ -21,6 +21,9 @@
    "provides":[  
       "Scatterer-sunflare"
    ],
+   "provides":[  
+      "PlanetShine-Config-Default"
+   ],
    "depends":[  
       {  
          "name":"ModuleManager"
