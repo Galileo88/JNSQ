@@ -19,9 +19,6 @@
       "DistantObject-config"
    ],
    "provides":[  
-      "Scatterer-sunflare"
-   ],
-   "provides":[  
       "PlanetShine-Config"
    ],
    "depends":[  
