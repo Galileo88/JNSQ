@@ -67,7 +67,19 @@
       },
 	  {  
          "name":"SciFiVisualEnhancements"
-      }
+      },
+	  {  
+         "name":"PlanetShine-Config"
+      },
+	  {  
+         "name":"Scatterer-sunflare"
+      },
+	  {  
+         "name":"EnvironmentalVisualEnhancements-Config"
+      },
+	  {  
+         "name":"DistantObject-config"
+      },
    ],
    "install":[  
       {  
