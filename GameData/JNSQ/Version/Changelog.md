@@ -1,5 +1,10 @@
 # JNSQ
 
+## 0.7.1 (WIP)
+* Updated Rational Resources bundle to 0.8.6. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/releases/tag/0.8.6).
+* Added loading screen images, not yet credited in-image. Players in filenames.
+* Fixed Kerbin biome map: Arid Mountains was missing.
+
 ## 0.7 Change log
  * Performace pass.
  * Adjust the distance in which scatter objects are rendered, including BG scatter to ensure better performance.
