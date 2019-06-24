@@ -1,0 +1,25 @@
+{
+	"NAME": "<b><color=#9B59B6>Kronometer</color></b>",
+	"URL": "https://raw.githubusercontent.com/StollD/Kronometer/master/Distribution/Release/GameData/Kronometer/Plugins/Kronometer.version",
+	"DOWNLOAD": "https://github.com/StollD/Kronometer/releases/latest",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/StollD/Kronometer/master/Distribution/Release/Changelog.txt",
+	"GITHUB":
+	{
+		"USERNAME": "StollD",
+		"REPOSITORY": "Kronometer",
+		"ALLOW_PRE_RELEASE": false
+	},
+	"VERSION":
+	{
+		"MAJOR": 1,
+		"MINOR": 7,
+		"PATCH": 1,
+		"BUILD": 1
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR": 1,
+		"MINOR": 7,
+		"PATCH": 1
+	}
+}
