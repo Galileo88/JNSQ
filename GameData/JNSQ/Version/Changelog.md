@@ -1,10 +1,17 @@
 # JNSQ
 
-## 0.7.1 (WIP)
+## 0.7.1 Change log (WIP)
 * Updated Rational Resources bundle to 0.8.6. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/releases/tag/0.8.6).
 * Added loading screen images, not yet credited in-image. Players in filenames.
+* Added more loading tips.
+* Added space center:
+  * Welcome Back Island (includes change to Kerbin terrain and biome map).
+  * KSC Harbor.
+  * These require Kerbal Konstructs and only OSSNTR (Omega's Stockalike Structures: No textures required)
 * Fixed Kerbin biome map: Arid Mountains was missing.
-
+* Updated Eve biome map: Added 11 seas.
+* Updated Tam biome map: Added 3 biomes. Thanks to CoriW, maker of Planet Arkas.
+* Updated solar panel catch-all config.
 ## 0.7 Change log
  * Performace pass.
  * Adjust the distance in which scatter objects are rendered, including BG scatter to ensure better performance.
