@@ -88,3 +88,42 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 		Dispersal = 0
 	}
 }
+
+// Exosphere = = = = = = = = =
+
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = None
+	Tag = AtmGasUranian
+	Distribution
+	{
+		PresenceChance = 100
+		MinAbundance = 20
+		MaxAbundance = 60
+		MinAltitude = 0.1
+		MaxAltitude = 0.1
+		MinRange = 75
+		MaxRange = 100
+		Variance = 0
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = None
+	Tag = AtmGasUranian
+	Distribution
+	{
+		PresenceChance = 100
+		MinAbundance = 0.8
+		MaxAbundance = 1
+		MinAltitude = 0.1
+		MaxAltitude = 0.1
+		MinRange = 75
+		MaxRange = 100
+		Variance = 0
+	}
+}

@@ -1,5 +1,24 @@
 # Rational Resources
 
+## 0.9.0
+* Added Ore tank types for SimpleConstruction.
+* Added MetallicOre presence.
+* Added MetalOre and Oxium to scanners for Classic Stock.
+* Added several stock scanner modules to RR Scanners:
+  * GPS to all.
+  * KerbNet to all.
+  * Biome scanner to ground and sea.
+  * Asteroid analysis to ground.
+  * (Per) Resource Analysis via CRP, Classic Stock (I might revert this one. Possible PAW spam.)
+* Added Hexagen to Mun crust (Helium presence for CRP pending).
+* Added atmo edge distributions for Default and Terra templates.
+* Added ExoRock and ExoIce for airless worlds.
+* Fixed distributions settings for worlds changed by JNSQ.
+* Fixed gas giant hydrogen, helium presence.
+* Finish balancing ISRU chains.
+* Delete LqdOxygen converter options and treat stock Oxidizer as LqdOxygen.
+* Treat LiquidFuel as Dodecane.
+
 ## 0.8.6
 * Added CarbonDioxide and Hydrates splitters to ISRU.
   * These and other ISRU chains pending balance pass.

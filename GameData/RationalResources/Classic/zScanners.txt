@@ -60,6 +60,14 @@
 	{
 		name = ModuleResourceScanner
 		ScannerType = 0
+		ResourceName = MetalOre
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
 		ResourceName = Minerite
 		MaxAbundanceAltitude = 1500
 		RequiresUnlock = false
@@ -69,6 +77,14 @@
 		name = ModuleResourceScanner
 		ScannerType = 0
 		ResourceName = Nitronite
+		MaxAbundanceAltitude = 1500
+		RequiresUnlock = false
+	}
+	MODULE
+	{
+		name = ModuleResourceScanner
+		ScannerType = 0
+		ResourceName = Oxium
 		MaxAbundanceAltitude = 1500
 		RequiresUnlock = false
 	}
@@ -273,5 +289,75 @@
 		ScannerType = 3
 		ResourceName = Zeonium
 		RequiresUnlock = false
+	}
+}
+
+// Stock Orbital Surveyor, RR scanner
+@PART[SurfaceScanner,rr_scanner_green]
+{
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = Blutonuium
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = Gemstones
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = GrayWater
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = Hexagen
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = Hydrokerbon
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = MetalOre
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = Minerite
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = Nitronite
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = Oxium
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = PreciousMetals
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = Rock
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = Water
+	}
+	MODULE
+	{
+		name = ModuleAnalysisResource
+		ResourceName = Zeonium
 	}
 }

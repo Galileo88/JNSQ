@@ -43,21 +43,21 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 		// Dispersal = 3
 	// }
 // }
-// PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
-// {
-	// ResourceName = Hexagen
-	// ResourceType = 0
-	// PlanetName = Mun
-	// Tag = Specific
-	// Distribution
-	// {
-		// PresenceChance = 90
-		// MinAbundance = 0.5
-		// MaxAbundance = 4
-		// Variance = 50
-		// Dispersal = 10
-	// }
-// }
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Mun
+	Tag = Specific
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.5
+		MaxAbundance = 4
+		Variance = 50
+		Dispersal = 10
+	}
+}
 // PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 // {
 	// ResourceName = Hydrokerbon
