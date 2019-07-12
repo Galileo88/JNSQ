@@ -9,9 +9,14 @@
   * KSC Harbor.
   * These require Kerbal Konstructs and only OSSNTR (Omega's Stockalike Structures: No textures required)
 * Fixed Kerbin biome map: Arid Mountains was missing.
-* Updated Eve biome map: Added 11 seas.
+* Updated Eve biome map: 
+  * Added 11 seas.
+  * Methane Lakes renamed to Petrol Lakes.
 * Updated Tam biome map: Added 3 biomes. Thanks to CoriW, maker of Planet Arkas.
 * Updated solar panel catch-all config.
+* Updated Rational Resources settings:
+  * Eve's Shores now always Ore rich to make LFO (Kerolox) production from (near to the) Petrol Lakes convenient.
+  * Added/Fixed some options for atmo edge mining.
 ## 0.7 Change log
  * Performace pass.
  * Adjust the distance in which scatter objects are rendered, including BG scatter to ensure better performance.
