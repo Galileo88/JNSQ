@@ -13,10 +13,13 @@
 * Added Hexagen to Mun crust (Helium presence for CRP pending).
 * Added atmo edge distributions for Default and Terra templates.
 * Added ExoRock and ExoIce for airless worlds.
+* Changed Ore tanks patch to only target stock Ore tanks.
+  * Added Hydrates, Rock options.
 * Fixed distributions settings for worlds changed by JNSQ.
-* Fixed gas giant hydrogen, helium presence.
+* Fixed gas giant Hydrogen, Helium presence.
+* Fixed mini drill abundance threshold, leave it unchanged.
 * Finish balancing ISRU chains.
-* Delete LqdOxygen converter options and treat stock Oxidizer as LqdOxygen.
+* Treat stock Oxidizer as LqdOxygen, remove LqdOxygen -> Oxidizer option. Due to balancing reasons, these two have a redundancy problem.
 * Treat LiquidFuel as Dodecane.
 
 ## 0.8.6
