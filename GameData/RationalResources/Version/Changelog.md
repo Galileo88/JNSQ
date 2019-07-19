@@ -21,6 +21,9 @@
 * Finish balancing ISRU chains.
 * Treat stock Oxidizer as LqdOxygen, remove LqdOxygen -> Oxidizer option. Due to balancing reasons, these two have a redundancy problem.
 * Treat LiquidFuel as Dodecane.
+* Added planet classification experiment.
+  * Added to stock M4435 Narrow-Band Scanner.
+  * Supports JNSQ.
 
 ## 0.8.6
 * Added CarbonDioxide and Hydrates splitters to ISRU.
