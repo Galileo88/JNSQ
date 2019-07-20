@@ -61,5 +61,3 @@ JNSQ is not recommened for use with other planet packs. Questions regarding othe
 ## Licensing
 * JNSQ is licensed by Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0).
 * Rational Resources, bundled, is licensed MIT.
-
-Testing Webhook
