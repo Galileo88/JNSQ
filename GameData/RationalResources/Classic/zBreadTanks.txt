@@ -1,0 +1,149 @@
+@PART[RRBreadTank*]:AFTER[RationalResources]
+{
+	!RESOURCE,* {}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		moduleID = RRSwitch
+		switcherDescription = RR Fuel
+		switchInFlight = True
+		baseVolume = #$../refVolume$
+		SUBTYPE
+		{
+			name = LFO
+			tankType = LFO
+			title = LF + Ox
+		}
+		SUBTYPE
+		{
+			name = LF
+			tankType = LiquidFuel
+			title = LiquidFuel
+		}
+		SUBTYPE
+		{
+			name = OX
+			tankType = OX
+			title = Oxidizer
+		}
+		SUBTYPE
+		{
+			name = MO
+			tankType = MonoPropellant
+			title = MonoPropellant
+		}
+		SUBTYPE
+		{
+			name = Structural
+			title = Structural
+		}
+		SUBTYPE
+		{
+			name = Blutonium
+			tankType = RR_BLU
+			title = Blutonium
+		}
+		SUBTYPE
+		{
+			name = Explodium
+			tankType = RR_XPL
+			title = Explodium
+		}
+		SUBTYPE
+		{
+			name = Gemstones
+			tankType = RR_GMS
+			title = Gemstones
+		}
+		SUBTYPE
+		{
+			name = GrayWater
+			tankType = RR_GW
+			title = GrayWater
+		}
+		SUBTYPE
+		{
+			name = Hexagen
+			tankType = RR_HEX
+			title = Hexagen
+		}
+		SUBTYPE
+		{
+			name = Hydrokerbon
+			tankType = RR_HKR
+			title = Hydrokerbon
+		}
+		SUBTYPE
+		{
+			name = Minerite
+			tankType = RR_MNR
+			title = Minerite
+		}
+		SUBTYPE
+		{
+			name = Nitronite
+			tankType = RR_N2O
+			title = Nitronite
+		}
+		SUBTYPE
+		{
+			name = Oxium
+			tankType = RR_OXM
+			title = Oxium
+		}
+		SUBTYPE
+		{
+			name = Propellium
+			tankType = RR_PLM
+			title = Propellium
+		}
+		SUBTYPE
+		{
+			name = PropLox
+			tankType = RR_PLOX
+			title = PropLox
+		}
+		SUBTYPE
+		{
+			name = PreciousMetals
+			tankType = RR_PRM
+			title = PreciousMetals
+		}
+		SUBTYPE
+		{
+			name = Raptium
+			tankType = RR_RPT
+			title = Raptium
+		}
+		SUBTYPE
+		{
+			name = RaptaLox
+			tankType = RR_RLOX
+			title = RaptaLox
+		}
+		SUBTYPE
+		{
+			name = Rock
+			tankType = RR_ROK
+			title = Rock
+		}
+		SUBTYPE
+		{
+			name = Slag
+			tankType = RR_SLG
+			title = Slag
+		}
+		SUBTYPE
+		{
+			name = Water
+			tankType = RR_H2O
+			title = Water
+		}
+		SUBTYPE
+		{
+			name = Zeonium
+			tankType = RR_ZNM
+			title = Zeonium
+		}
+	}
+}

@@ -1,0 +1,187 @@
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_BLU
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Blutonium
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_XPL
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Explodium
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_GMS
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Gemstones
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_GW
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = GrayWater
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_HEX
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Hexagen
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_HKR
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Hydrokerbon
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_MNR
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Minerite
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_N2O
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Nitronite
+		unitsPerVolume = 5
+	}
+}
+
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_OXM
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Oxium
+		unitsPerVolume = 1
+	}
+}
+
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_PRM
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = PreciousMetals
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_RPT
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Raptium
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_RLOX
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Raptium
+		unitsPerVolume = 0.57
+	}
+	RESOURCE
+	{
+		name = Oxidizer
+		unitsPerVolume = 0.43
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_ROK
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Rock
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_SLG
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Slag
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+{
+	name = RR_ZNM
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = Zeonium
+		unitsPerVolume = 1
+	}
+}
