@@ -1,29 +1,31 @@
 # Rational Resources
 
 ## 0.9.0
-* Added Ore tank types for SimpleConstruction.
+* Added atmo edge distributions for Default and Terra templates.
+* Added ExoRock and ExoIce templates for airless worlds.
+* Added Hexagen to Mun crust (Helium presence for CRP pending).
 * Added MetallicOre presence.
 * Added MetalOre and Oxium to scanners for Classic Stock.
+* Added Ore tank types for SimpleConstruction.
+* Added Planet Classification experiment.
+  * Added to stock M4435 Narrow-Band Scanner.
+  * Supports JNSQ.
 * Added several stock scanner modules to RR Scanners:
   * GPS to all.
   * KerbNet to all.
   * Biome scanner to ground and sea.
   * Asteroid analysis to ground.
   * (Per) Resource Analysis via CRP, Classic Stock (I might revert this one. Possible PAW spam.)
-* Added Hexagen to Mun crust (Helium presence for CRP pending).
-* Added atmo edge distributions for Default and Terra templates.
-* Added ExoRock and ExoIce for airless worlds.
+* Added temporary clones of the stock 'Bread' tanks with B9PS and Tweakscale patch. These can hold all RR tank types. Better tank models and sizes coming.
 * Changed Ore tanks patch to only target stock Ore tanks.
   * Added Hydrates, Rock options.
 * Fixed distributions settings for worlds changed by JNSQ.
 * Fixed gas giant Hydrogen, Helium presence.
 * Fixed mini drill abundance threshold, leave it unchanged.
 * Finish balancing ISRU chains.
-* Treat stock Oxidizer as LqdOxygen, remove LqdOxygen -> Oxidizer option. Due to balancing reasons, these two have a redundancy problem.
-* Treat LiquidFuel as Dodecane.
-* Added planet classification experiment.
-  * Added to stock M4435 Narrow-Band Scanner.
-  * Supports JNSQ.
+* Removed CO2 multimode patch for stock NERV engine. It was found to conflict with the Kerbal Atomics multimode patch. This patch may return as an example for making other CO2 NTR configs.
+* Treated stock Oxidizer as LqdOxygen, remove LqdOxygen -> Oxidizer option. Due to balancing reasons, these two have a redundancy problem.
+* Treated LiquidFuel as Dodecane.
 
 ## 0.8.6
 * Added CarbonDioxide and Hydrates splitters to ISRU.
