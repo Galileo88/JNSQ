@@ -5,7 +5,7 @@
 	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Lf?Ox]]
 	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[LiquidFuel]] {}
 	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Oxidizer]] {}
-	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[MonoPropellant]] {}
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Mono*]] {}
 	MODULE
 	{
 		name = WBIOmniConverter
@@ -60,7 +60,7 @@
 	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Lf?Ox]]
 	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[LiquidFuel]] {}
 	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Oxidizer]] {}
-	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[MonoPropellant]] {}
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Mono*]] {}
 	MODULE
 	{
 		name = WBIOmniConverter

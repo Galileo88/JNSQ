@@ -137,4 +137,4 @@ BIOME_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources,!JNSQ]
 }
 
 // Purge source nodes
-!BIOME_RESOURCE:HAS[#Tag[Nuke]]:FINAL {}
+!BIOME_RESOURCE:HAS[#Tag[Nuke]]:FOR[zRationalResources] {}

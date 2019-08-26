@@ -100,7 +100,7 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 	Tag = AtmGasJovian
 	Distribution
 	{
-		PresenceChance = 100
+		PresenceChance = 1000
 		MinAbundance = 20
 		MaxAbundance = 60
 		MinAltitude = 0.1
@@ -118,7 +118,7 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 	Tag = AtmGasJovian
 	Distribution
 	{
-		PresenceChance = 100
+		PresenceChance = 1000
 		MinAbundance = 1
 		MaxAbundance = 1.2
 		MinAltitude = 0.1

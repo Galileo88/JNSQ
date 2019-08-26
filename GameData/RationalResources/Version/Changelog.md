@@ -1,5 +1,14 @@
 # Rational Resources
 
+## 0.9.1
+* Added support for the Outer Planets Mod.
+* Added Extras folder with optional configs.
+  * Moved stock Ore converters remover here.
+  * Added `RationalResourcesSquad`. This extra applies B9PS and all fuel options to all stock tanks. This also adds non-redundant tank types to CryoTanks if that is installed. (Does not affect CryoTanks if installed alongside WBI Classic Stock.)
+  * Added patch for Nertea's SSPXr.
+  * Added LqdHe3 tank type which only appears for Galaxies Unbound (a planet pack).
+  
+
 ## 0.9.0
 * Added atmo edge distributions for Default and Terra templates.
 * Added ExoRock and ExoIce templates for airless worlds.
