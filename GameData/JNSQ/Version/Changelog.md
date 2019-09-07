@@ -1,12 +1,14 @@
 # JNSQ
 
 ## 0.7.1 Change log (WIP)
-* Updated Rational Resources bundle to 0.8.6. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/releases/tag/0.8.6).
+* Updated Rational Resources bundle to 0.9.1. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/releases/tag/0.9.1).
 * Added loading screen images, not yet credited in-image. Players in filenames.
 * Added more loading tips.
-* Added space center:
-  * Welcome Back Island (includes change to Kerbin terrain and biome map).
+* Added facilities:
+  * Welcome Back Island (Downrange center for reusability programs. Includes change to Kerbin terrain and biome map).
   * KSC Harbor.
+  * C. Yeager Space Center for rival space programs.
+  * 2x mountain-top Observatories.
   * These require Kerbal Konstructs and only OSSNTR (Omega's Stockalike Structures: No textures required)
 * Fixed Kerbin biome map: Arid Mountains was missing.
 * Updated Eve biome map: 
