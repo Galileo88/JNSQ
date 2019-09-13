@@ -211,3 +211,73 @@
 		mtbf = 400
 	}
 }
+
+// Atmosphere converters
+OMNICONVERTER
+{
+	templateTags = hab;lab
+	TechRequired = advElectrics
+	ConverterName = Atmosphere Compressor
+	description = Pressurize!
+	StartActionName = Start Compressor
+	StopActionName = Stop Compressor
+	AutoShutdown = false
+	UseSpecialistBonus = false
+	EfficiencyBonus = 1
+	 
+	INPUT_RESOURCE
+	{
+		ResourceName = Atmosphere
+		Ratio = 2
+		FlowMode = ALL_VESSEL
+	}
+	
+	OUTPUT_RESOURCE
+	{
+		ResourceName = ElectricCharge
+		Ratio = 20
+		DumpExcess = false
+		FlowMode = ALL_VESSEL
+	}
+	
+	OUTPUT_RESOURCE
+	{
+		ResourceName = CompressedAtmosphere
+		Ratio = 0.4
+		FlowMode = ALL_VESSEL
+	}
+}
+OMNICONVERTER
+{
+	templateTags = hab;lab
+	TechRequired = advElectrics
+	ConverterName = Atmosphere Decompressor
+	description = Depressurize!
+	StartActionName = Start Decompressor
+	StopActionName = Stop Decompressor
+	AutoShutdown = false
+	UseSpecialistBonus = false
+	EfficiencyBonus = 1
+	 
+	INPUT_RESOURCE
+	{
+		ResourceName = CompressedAtmosphere
+		Ratio = 1
+		FlowMode = ALL_VESSEL
+	}
+	
+	OUTPUT_RESOURCE
+	{
+		ResourceName = ElectricCharge
+		Ratio = 1
+		DumpExcess = false
+		FlowMode = ALL_VESSEL
+	}
+	
+	OUTPUT_RESOURCE
+	{
+		ResourceName = Atmosphere
+		Ratio = 5
+		FlowMode = ALL_VESSEL
+	}
+}
