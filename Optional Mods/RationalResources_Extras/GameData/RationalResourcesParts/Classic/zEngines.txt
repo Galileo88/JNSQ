@@ -1,0 +1,123 @@
+// Convert RR nuclear turbojet and rocket engines
+@PART[RREngineNTJ1]:AFTER[RationalResources]
+{
+	@MODULE[ModuleEnginesFX]
+	{
+		@PROPELLANT[IntakeAtm]
+		{
+			@name = Atmosphere
+		}
+		@PROPELLANT[ThermalPower]
+		{
+			@name = CoreHeat
+		}
+	}
+	@RESOURCE[EnrichedUranium]
+	{
+		@name = NuclearFuel
+	}
+	RESOURCE[DepletedFuel]
+	{
+		@name = NuclearWaste
+	}
+	RESOURCE[ThermalPower]
+	{
+		@name = CoreHeat
+	}
+	@MODULE[ModuleResourceConverter]
+	{
+		@INPUT_RESOURCE[EnrichedUranium]
+		{
+			@ResourceName = NuclearFuel
+		}
+		@OUTPUT_RESOURCE[DepletedFuel]
+		{
+			@ResourceName = NuclearWaste
+		}
+		@OUTPUT_RESOURCE[ThermalPower]
+		{
+			@ResourceName = CoreHeat
+		}
+	}
+}
+@PART[RREngineNERVA-O]:AFTER[RationalResources]
+{
+	@description = O for "Oxidizing," this advanced form of the classic NERV engine, the LV-N-O is able to safely operate on any of a small number of "oxidizing" propellants, namely CompressedAtmosphere (which tends to contain StaleAir!) and Water. The average Isp of its propellant options is low, making this engine most suited for use on heavyweight and short range craft.
+	@MODULE[ModuleEnginesFX]
+	{
+		@PROPELLANT[LqdCO2]
+		{
+			@name = CompressedAtmosphere
+		}
+	}
+	@MODULE[ModuleB9PartSwitch]
+	{
+		@SUBTYPE[Carbon]
+		{
+			@name = Atmosphere
+			@title = Compressed Atmosphere
+			@descriptionSummary = The engine consumes <color="yellow">CompressedAtmosphere</color>.<br>This is the highest thrust option among all RR NTR options and is fitting for use at inner rocky worlds with atmospheres.
+			@MODULE
+			{
+				@DATA
+				{
+					@PROPELLANT[LqdCO2]
+					{
+						@name = CompressedAtmosphere
+					}
+				}
+			}
+		}
+	}
+}
+@PART[RREngineNERVA-R]:AFTER[RationalResources]
+{
+	@description = R for "Reducing," this advanced form of the classic NERV engine, the LV-N-R is able to safely operate on any of a small number of "reducing" propellants, namely Propellium and Raptium. The average Isp of its propellant options is high, keeping this engine most suited for use on lightweight and far-travelling craft.
+	@MODULE[ModuleEnginesFX]
+	{
+		@PROPELLANT[LqdHydrogen]
+		{
+			@name = Propellium
+		}
+	}
+	@MODULE[ModuleB9PartSwitch]
+	{
+		@SUBTYPE[Hydrogen]
+		{
+			@name = Propellium
+			@title = Propellium
+			@primaryColor = Lightblue
+			@secondaryColor = Lightblue
+			@descriptionSummary = The engine consumes <color="yellow">Propellium</color>.<br>This is the highest efficiency, baseline option for NTRs.
+			@MODULE
+			{
+				@DATA
+				{
+					@PROPELLANT[LqdHydrogen]
+					{
+						@name = Propellium
+					}
+				}
+			}
+		}
+		!SUBTYPE[Ammonia] {}
+		@SUBTYPE[Methane]
+		{
+			@name = Raptium
+			@title = Raptium
+			@primaryColor = PurpleyPink
+			@secondaryColor = PurpleyPink
+			@descriptionSummary = The engine consumes <color="yellow">Raptium</color>.<br>This option trades a very modest portion of efficiency for thrust but makes use of the highly demanded alternative propellant for launchers and boosters.
+			@MODULE
+			{
+				@DATA
+				{
+					@PROPELLANT[LqdMethane]
+					{
+						@name = Raptium
+					}
+				}
+			}
+		}
+	}
+}

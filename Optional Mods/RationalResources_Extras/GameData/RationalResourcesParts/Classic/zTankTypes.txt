@@ -11,6 +11,18 @@ B9_TANK_TYPE:NEEDS[!CryoTanks]
 }
 B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 {
+	name = RR_AUR
+	tankMass = 0.00007085
+	tankCost = 0.15
+	percentFilled = 0
+	RESOURCE
+	{
+		name = Aurum
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
+{
 	name = RR_BLU
 	tankMass = 0.00007085
 	tankCost = 0.15
@@ -21,7 +33,19 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		unitsPerVolume = 1
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
+{
+	name = RR_ATMC
+	tankMass = 0.00007085
+	tankCost = 0.15
+	// percentFilled = 100
+	RESOURCE
+	{
+		name = CompressedAtmosphere
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_XPL
 	tankMass = 0.00007085
@@ -33,7 +57,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		unitsPerVolume = 1
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_GMS
 	tankMass = 0.00007085
@@ -45,7 +69,19 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		unitsPerVolume = 1
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch,FlyingSaucers]
+{
+	name = RR_GRV
+	tankMass = 0.00007085
+	tankCost = 0.15
+	percentFilled = 0
+	RESOURCE
+	{
+		name = Graviolium
+		unitsPerVolume = 1
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_GW
 	tankMass = 0.00007085
@@ -57,7 +93,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		unitsPerVolume = 1
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_HEX
 	tankMass = 0.00007085
@@ -69,7 +105,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		unitsPerVolume = 1
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_HKR
 	tankMass = 0.00007085
@@ -81,7 +117,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		unitsPerVolume = 1
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_MNR
 	tankMass = 0.00007085
@@ -93,7 +129,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		unitsPerVolume = 1
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_N2O
 	tankMass = 0.00007085
@@ -102,11 +138,11 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 	RESOURCE
 	{
 		name = Nitronite
-		unitsPerVolume = 5
+		unitsPerVolume = 1
 	}
 }
 
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_OXM
 	tankMass = 0.00007085
@@ -119,7 +155,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 	}
 }
 
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_PRM
 	tankMass = 0.00007085
@@ -131,36 +167,36 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		unitsPerVolume = 1
 	}
 }
-// B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
-// {
-	// name = RR_PLM
-	// tankMass = 0.00007085
-	// tankCost = 0.15
-	// percentFilled = 100
-	// RESOURCE
-	// {
-		// name = Propellium
-		// unitsPerVolume = 15
-	// }
-// }
-// B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
-// {
-	// name = RR_PLOX
-	// tankMass = 0.00007085
-	// tankCost = 0.15
-	// percentFilled = 100
-	// RESOURCE
-	// {
-		// name = Propellium
-		// unitsPerVolume = 7.5
-	// }
-	// RESOURCE
-	// {
-		// name = Oxidizer
-		// unitsPerVolume = 0.5
-	// }
-// }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
+{
+	name = RR_PLM
+	tankMass = 0.00007085
+	tankCost = 0.15
+	percentFilled = 100
+	RESOURCE
+	{
+		name = Propellium
+		unitsPerVolume = 15
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
+{
+	name = RR_PLOX
+	tankMass = 0.00007085
+	tankCost = 0.15
+	percentFilled = 100
+	RESOURCE
+	{
+		name = Propellium
+		unitsPerVolume = 7.5
+	}
+	RESOURCE
+	{
+		name = Oxidizer
+		unitsPerVolume = 0.5
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_RPT
 	tankMass = 0.00007085
@@ -169,10 +205,10 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 	RESOURCE
 	{
 		name = Raptium
-		unitsPerVolume = 1
+		unitsPerVolume = 5
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_RLOX
 	tankMass = 0.00007085
@@ -181,15 +217,15 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 	RESOURCE
 	{
 		name = Raptium
-		unitsPerVolume = 0.57
+		unitsPerVolume = 1.65
 	}
 	RESOURCE
 	{
 		name = Oxidizer
-		unitsPerVolume = 0.43
+		unitsPerVolume = 0.55
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_ROK
 	tankMass = 0.00007085
@@ -201,7 +237,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		unitsPerVolume = 1
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_SLG
 	tankMass = 0.00007085
@@ -213,7 +249,18 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		unitsPerVolume = 1
 	}
 }
-B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
+{
+	name = RR_WTR
+	tankMass = 0
+	tankCost = 0
+	RESOURCE
+	{
+		name = Water
+		unitsPerVolume = 5
+	}
+}
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
 {
 	name = RR_ZNM
 	tankMass = 0.00007085
@@ -231,6 +278,14 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 {
 	@MODULE[ModuleB9PartSwitch]:HAS[#moduleID[RRStockSwitch]]
 	{
+		SUBTYPE:NEEDS[Pathfinder]
+		{
+			name = Aurum
+			tankType = RR_AUR
+			title = Aurum
+			primaryColor = DarkGold
+			secondaryColor = DarkGold
+		}
 		SUBTYPE
 		{
 			name = Blutonium
@@ -238,6 +293,14 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 			title = Blutonium
 			primaryColor = Greyblue
 			secondaryColor = Greyblue
+		}
+		SUBTYPE
+		{
+			name = CompressedAtmosphere
+			tankType = RR_ATMC
+			title = Compressed Atmosphere
+			primaryColor = WarmGrey
+			secondaryColor = WarmGrey
 		}
 		SUBTYPE
 		{
@@ -254,6 +317,14 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 			title = Gemstones
 			primaryColor = Ruby
 			secondaryColor = Ruby
+		}
+		SUBTYPE:NEEDS[FlyingSaucers]
+		{
+			name = Graviolium
+			tankType = RR_GRV
+			title = Graviolium
+			primaryColor = DarkIndigo
+			secondaryColor = DarkIndigo
 		}
 		SUBTYPE
 		{
@@ -292,33 +363,33 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 			name = Nitronite
 			tankType = RR_N2O
 			title = Nitronite
-			primaryColor = PeacockBlue
-			secondaryColor = PeacockBlue
+			primaryColor = DarkSkyBlue
+			secondaryColor = DarkSkyBlue
 		}
 		SUBTYPE
 		{
 			name = Oxium
 			tankType = RR_OXM
 			title = Oxium
-			primaryColor = CadetBlue
-			secondaryColor = CadetBlue
+			primaryColor = ResourceColorOxidizer
+			secondaryColor = ResourceColorOxidizer
 		}
-		// SUBTYPE
-		// {
-			// name = Propellium
-			// tankType = RR_PLM
-			// title = Propellium
-			// primaryColor = Lightblue
-			// secondaryColor = Lightblue
-		// }
-		// SUBTYPE
-		// {
-			// name = PropLox
-			// tankType = RR_PLOX
-			// title = PropLox
-			// primaryColor = Lightblue
-			// secondaryColor = CadetBlue
-		// }
+		SUBTYPE
+		{
+			name = Propellium
+			tankType = RR_PLM
+			title = Propellium
+			primaryColor = Lightblue
+			secondaryColor = Lightblue
+		}
+		SUBTYPE
+		{
+			name = PropLox
+			tankType = RR_PLOX
+			title = PropLox
+			primaryColor = Lightblue
+			secondaryColor = ResourceColorOxidizer
+		}
 		SUBTYPE
 		{
 			name = PreciousMetals
@@ -341,7 +412,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 			tankType = RR_RLOX
 			title = RaptaLox
 			primaryColor = PurpleyPink
-			secondaryColor = CadetBlue
+			secondaryColor = ResourceColorOxidizer
 		}
 		SUBTYPE
 		{
@@ -362,7 +433,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch,Pathfinder]
 		SUBTYPE
 		{
 			name = Water
-			tankType = RR_H2O
+			tankType = RR_WTR
 			title = Water
 			primaryColor = Ocean
 			secondaryColor = Ocean

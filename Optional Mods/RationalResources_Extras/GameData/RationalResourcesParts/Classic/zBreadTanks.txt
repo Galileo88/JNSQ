@@ -1,4 +1,4 @@
-@PART[RRBreadTank*]:AFTER[RationalResources]
+@PART[RRBreadTank*]:AFTER[RationalResourcesParts]
 {
 	!RESOURCE,* {}
 	MODULE
@@ -37,113 +37,173 @@
 			name = Structural
 			title = Structural
 		}
+		SUBTYPE:NEEDS[Pathfinder]
+		{
+			name = Aurum
+			tankType = RR_AUR
+			title = Aurum
+			primaryColor = DarkGold
+			secondaryColor = DarkGold
+		}
 		SUBTYPE
 		{
 			name = Blutonium
 			tankType = RR_BLU
 			title = Blutonium
+			primaryColor = Greyblue
+			secondaryColor = Greyblue
+		}
+		SUBTYPE
+		{
+			name = CompressedAtmosphere
+			tankType = RR_ATMC
+			title = Compressed Atmosphere
+			primaryColor = WarmGrey
+			secondaryColor = WarmGrey
 		}
 		SUBTYPE
 		{
 			name = Explodium
 			tankType = RR_XPL
 			title = Explodium
+			primaryColor = Mustard
+			secondaryColor = Mustard
 		}
 		SUBTYPE
 		{
 			name = Gemstones
 			tankType = RR_GMS
 			title = Gemstones
+			primaryColor = Ruby
+			secondaryColor = Ruby
+		}
+		SUBTYPE:NEEDS[FlyingSaucers]
+		{
+			name = Graviolium
+			tankType = RR_GRV
+			title = Graviolium
+			primaryColor = DarkIndigo
+			secondaryColor = DarkIndigo
 		}
 		SUBTYPE
 		{
 			name = GrayWater
 			tankType = RR_GW
 			title = GrayWater
+			primaryColor = FrenchBlue
+			secondaryColor = FrenchBlue
 		}
 		SUBTYPE
 		{
 			name = Hexagen
 			tankType = RR_HEX
 			title = Hexagen
+			primaryColor = Grapefruit
+			secondaryColor = Grapefruit
 		}
 		SUBTYPE
 		{
 			name = Hydrokerbon
 			tankType = RR_HKR
 			title = Hydrokerbon
+			primaryColor = Saffron
+			secondaryColor = Saffron
 		}
 		SUBTYPE
 		{
 			name = Minerite
 			tankType = RR_MNR
 			title = Minerite
+			primaryColor = Tea
+			secondaryColor = Tea
 		}
 		SUBTYPE
 		{
 			name = Nitronite
 			tankType = RR_N2O
 			title = Nitronite
+			primaryColor = DarkSkyBlue
+			secondaryColor = DarkSkyBlue
 		}
 		SUBTYPE
 		{
 			name = Oxium
 			tankType = RR_OXM
 			title = Oxium
+			primaryColor = ResourceColorOxidizer
+			secondaryColor = ResourceColorOxidizer
 		}
 		SUBTYPE
 		{
 			name = Propellium
 			tankType = RR_PLM
 			title = Propellium
+			primaryColor = Lightblue
+			secondaryColor = Lightblue
 		}
 		SUBTYPE
 		{
 			name = PropLox
 			tankType = RR_PLOX
 			title = PropLox
+			primaryColor = Lightblue
+			secondaryColor = ResourceColorOxidizer
 		}
 		SUBTYPE
 		{
 			name = PreciousMetals
 			tankType = RR_PRM
 			title = PreciousMetals
+			primaryColor = LightPlum
+			secondaryColor = LightPlum
 		}
 		SUBTYPE
 		{
 			name = Raptium
 			tankType = RR_RPT
 			title = Raptium
+			primaryColor = PurpleyPink
+			secondaryColor = PurpleyPink
 		}
 		SUBTYPE
 		{
 			name = RaptaLox
 			tankType = RR_RLOX
 			title = RaptaLox
+			primaryColor = PurpleyPink
+			secondaryColor = ResourceColorOxidizer
 		}
 		SUBTYPE
 		{
 			name = Rock
 			tankType = RR_ROK
 			title = Rock
+			primaryColor = Desert
+			secondaryColor = Desert
 		}
 		SUBTYPE
 		{
 			name = Slag
 			tankType = RR_SLG
 			title = Slag
+			primaryColor = Shit
+			secondaryColor = Shit
 		}
 		SUBTYPE
 		{
 			name = Water
-			tankType = RR_H2O
+			tankType = RR_WTR
 			title = Water
+			primaryColor = Ocean
+			secondaryColor = Ocean
 		}
 		SUBTYPE
 		{
 			name = Zeonium
 			tankType = RR_ZNM
 			title = Zeonium
+			primaryColor = Lavender
+			secondaryColor = Lavender
 		}
 	}
 }

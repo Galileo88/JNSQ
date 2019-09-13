@@ -1,5 +1,23 @@
 # Rational Resources
 
+## 0.9.2
+* Added nuclear engines:
+  * "Panther" clone "Main Coon" nuclear turbojet with built-in nuclear reactor.
+  * "NERVA" clones. The "O" edition is high thrust and can choose between Carbon Dioxide and Water. The "R" edition is high Isp and can choose between Hydrogen, Ammonia and Methane. Their mode switch feature requires **B9 Part Switch 2.10** or later.
+* Reduced MetalOre tank volume. A full tank weighed far, far too much.
+* WBI Classic Stock:
+  * Changed nuclear engines to use Classic Stock resources.
+  * Added OmniConverters for cycling Atmosphere and CompressedAtmosphere.
+  * Provided tank types. Most of Pathfinder's tank types available to all stock tanks through the Extras config.
+* Fixed small error in OPM science config.
+* Fixed XM-G50 intake patch to use harvester modules for ocean filtering. Intake modules showed very undesired behavior.
+* Changes concerning Eve oceans and Kerosene/LiquidFuel:
+  * Added large Ore presence to Eve Shallows biome to compensate for a lack of proper heavy hydrocarbon resource outside of RealFuels.
+  * Added Extras: EveLiquidFuelOcean.cfg -- what it says on the tin. Also adds a LiquidFuel harvester module to the XM-G50 air scoop. The idea of this is both very necessary on one hand and very silly on the other hand so it will not be active by default and will not be endorsed for use elsewhere.
+  * Removed CRP LqdMethane from Eve oceans as this is cryogenic and should not exist at a hot inner planet. It will still appear at any decent world with hydrocarbon oceans-- cold outer worlds.
+  * Classic Stock Hydrokerbon presence is unchanged as it meets the mark.
+
+
 ## 0.9.1
 * Added support for the Outer Planets Mod.
 * Added Extras folder with optional configs.
