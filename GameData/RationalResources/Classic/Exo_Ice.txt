@@ -1,3 +1,21 @@
+// Surface
+PLANETARY_RESOURCE:NEEDS[CommunityResourcePack]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = None
+	Tag = ExoIce
+	Distribution
+	{
+		PresenceChance = 90
+		MinAbundance = 0.5
+		MaxAbundance = 1.5
+		Variance = 50
+		Dispersal = 3
+	}
+}
+
+// Exosphere
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Hexagen
@@ -8,7 +26,7 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 	{
 		PresenceChance = 80
 		MinAbundance = 0.5
-		MaxAbundance = 1.5
+		MaxAbundance = 1
 		MinAltitude = 0.1
 		MaxAltitude = 0.1
 		MinRange = 10
