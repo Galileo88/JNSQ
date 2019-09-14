@@ -12,11 +12,15 @@
   * 2x mountain-top observatory complexes with helipads (no spawn).
   * These require Kerbal Konstructs and only OSSNTR (Omega's Stockalike Structures: No textures required). Some of these have modules on them for trading fuel, staffing with kerbals (there's a special condition for this which is unknown) and farming funds or science. Some of these need to be spotted with SCANsat's anomaly detector.
 * Fixed Kerbin biome map: Arid Mountains was missing.
+* Fixed Eve planetshine color. Should no longer be default purple.
 * Updated CelesitalBodies.pdf: fixed minor error.
+* Updated Duna biome map: 
+  * 13 biomes including 4 variants of craters.
 * Updated Eve biome map: 
   * Added 11 seas named after modders or mods whose names relate to monsters.
   * Methane Lakes renamed to Petrol Lakes.
-* Updated Tam biome map: Added 3 biomes. Thanks to CoriW, maker of Planet Arkas.
+* Updated Tam biome map: 
+  * Added 3 biomes. Thanks to CoriW, maker of Planet Arkas.
 * Updated solar panel catch-all config.
 * Updated Rational Resources settings:
   * Eve's Shores now always Ore rich to make LFO (Kerolox) production from (near to the) Petrol Lakes convenient.
