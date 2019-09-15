@@ -15,7 +15,7 @@
 * Fixed Eve planetshine color. Should no longer be default purple.
 * Updated CelesitalBodies.pdf: fixed minor error.
 * Updated Duna biome map: 
-  * 13 biomes including 4 variants of craters.
+  * 14 biomes including 5 variants of craters.
 * Updated Eve biome map: 
   * Added 11 seas named after modders or mods whose names relate to monsters.
   * Methane Lakes renamed to Petrol Lakes.
