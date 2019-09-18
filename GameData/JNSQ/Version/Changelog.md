@@ -1,16 +1,17 @@
 # JNSQ
 
 ## 0.7.1 Change log (WIP)
-* Updated Rational Resources bundle to 0.9.2. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/releases/tag/0.9.2).
-* Added loading screen images, not yet credited in-image. Players' names in filenames.
+* Updated Rational Resources bundle to 1.0.0. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/releases/tag/1.0.0).
+* Added loading screen images. Contributors' names in filenames.
 * Added more loading tips.
-* Added facilities:
+* Added Kerbal Konstructs facilities:
   * Welcome Back Island (Downrange center for reusability programs. Includes change to Kerbin terrain and its own biome).
   * KSC Harbor with water launch.
+  * Musgrave Space Center for purely vertical space programs. Includes 2 launchpads, 3 landing pads, no facilities for planes.
   * Air Base with 4 runways (no spawn).
-  * C. Yeager Space Center for rival space programs. Includes its own harbor and landing pads near the launchpads.
+  * C. Yeager Space Center for rival space programs. Includes its own harbor, 2 runways, 2 launchpads and 3 landing pads.
   * 2x mountain-top observatory complexes with helipads (no spawn).
-  * These require Kerbal Konstructs and only OSSNTR (Omega's Stockalike Structures: No textures required). Some of these have modules on them for trading fuel, staffing with kerbals (there's a special condition for this which is unknown) and farming funds or science. Some of these need to be spotted with SCANsat's anomaly detector.
+  * These require only OSSNTR (Omega's Stockalike Structures: No Textures Required). Some of these have modules on them for trading fuel, staffing with kerbals (there's a special condition for this which is unknown) and farming funds or science. Some of these need to be spotted with SCANsat's anomaly detector. Most of these special modules need to be purchased and opened to use.
 * Fixed Kerbin biome map: Arid Mountains was missing.
 * Fixed Eve planetshine color. Should no longer be default purple.
 * Updated CelesitalBodies.pdf: fixed minor error.
