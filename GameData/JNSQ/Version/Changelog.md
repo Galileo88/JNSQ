@@ -7,10 +7,12 @@
 * Added Kerbal Konstructs facilities:
   * Welcome Back Island (Downrange center for reusability programs. Includes change to Kerbin terrain and its own biome).
   * KSC Harbor with water launch.
+  * Alternate Woomerang, named "Woomera2." Appears nearby to the DLC site.
+  * Alternate Dessert Airfield named "Darude." Includes 2 wunays, 1 launchpad, 4 landing pads. Uses Kopernicus to disable the actual Dessert Airfield.
   * Musgrave Space Center for purely vertical space programs. Includes 2 launchpads, 3 landing pads, no facilities for planes.
-  * Air Base with 4 runways (no spawn).
+  * Air Base with 4 runways.
   * C. Yeager Space Center for rival space programs. Includes its own harbor, 2 runways, 2 launchpads and 3 landing pads.
-  * 2x mountain-top observatory complexes with helipads (no spawn).
+  * 2x mountain-top observatory complexes with helipads (no spawn) and Lv3 DSN.
   * These require only OSSNTR (Omega's Stockalike Structures: No Textures Required). Some of these have modules on them for trading fuel, staffing with kerbals (there's a special condition for this which is unknown) and farming funds or science. Some of these need to be spotted with SCANsat's anomaly detector. Most of these special modules need to be purchased and opened to use.
 * Fixed Kerbin biome map: Arid Mountains was missing.
 * Fixed Eve planetshine color. Should no longer be default purple.
