@@ -10,8 +10,8 @@ Many KSP modders have considered that while the stock parts (namely, engines) ar
 ## Notes
 * **Sigma Dimensions** and **Rescale!** are not required for JNSQ to function, and are discouraged from use alongside JNSQ.
 * When starting new saves under JNSQ, we advise that you enter Difficulty Settings and raise the DSN modifier to 4x. JNSQ applies a patch to increase antenna range by 4x, so leave the range modifier at 1 (changing it triggers a bug that may prevent science transmission).
-* The LV-TX87 and LV-T91 engines have had their thrust, mass and cost increased 25% and 20% respectively. This change was deemed necessary to assure they can lift a Mk2 command pod and service module to low orbit at JNSQ's larger scale.
-* JNSQ retains the stockalike Kerbin-Mun-Minmus system to conform to game elements outside or our control, such as the built-in contract system.  Be advised, however, this configuration is unstable.  For users of the mod Principia, the orbit of Minmus is moved inside that of Mun to provide orbital stability.
+* The Making History LV-TX87 and LV-T91 engines have had their thrust, mass and cost increased 25% and 20% respectively. This change was deemed necessary to assure they can lift a Mk2 command pod and service module to low orbit at JNSQ's larger scale.
+* JNSQ retains the stockalike Kerbin-Mun-Minmus system to conform to game elements outside or our control, such as the built-in contract system. Be advised, however, this configuration is unstable. For users of the mod Principia, the orbit of Minmus is moved inside that of Mun to provide orbital stability.
 
 ## Disclaimer / Barrier to Entry
 :warning: The target audience for JNSQ is the same as, if not narrower, than that of GPP. This mod is made not for the player-base at large, but for seasoned players: who greatly respect rocketry, realism and physics; who do not hold much regard for maintaining "stockalike" and "stock scale;" who are willing and able to mod their way to a great or greater game and who are able to troubleshoot a damaged install for themselves and help us to help them.
@@ -26,6 +26,7 @@ JNSQ is not recommened for use with other planet packs. Questions regarding othe
 * Distant Object Enhancement
 * Environmental Visual Enhancements
 * Kerbal Health
+* Kerbal Konstructs: We roll our own extra launch sites
 * Kerbalism
 * Kopernicus Expansion: Footprints
 * MechJeb
@@ -38,25 +39,24 @@ JNSQ is not recommened for use with other planet packs. Questions regarding othe
 * Waypoint Manager
 
 ## Not provided
-* Kerbal Konstructs things
-* Loading screen screenshots
-* Extra anomalies
+* Extra anomalies... Yet.
 
 ## Requirements
 * Kopernicus (latest version or latest backport release for older KSP versions)
 * ModuleManager 4 or newer
+* Minimum Hardware: 3 GHz quad-core CPU, 16GB of system RAM and 2GB of video memory
 
 ## Recommended Mods
 ### Parts
-* [Eve Optimized Engines](https://github.com/OhioBob/Eve-Optimized-Engines/releases) what it says on the tin.
-* [JX2 Antenna](https://spacedock.info/mod/1107/JX2Antenna) late-game antennae made to reduce the need to spam RA-15 and RA-100 and preclude the need to install Custom Barn Kit.
+* [Eve Optimized Engines](https://github.com/OhioBob/Eve-Optimized-Engines/releases). An engine pack tailored for Eve ascent vehicles.
+* [JX2 Antenna](https://spacedock.info/mod/1107/JX2Antenna), late-game antennae made to reduce the need to spam RA-15 and RA-100 and preclude the need to install Custom Barn Kit.
 
 ### Utilities
-* [CommNet Antennas Info](https://spacedock.info/mod/2039/CommNet%20Antennas%20Info) expands the panel info for antennae in the  VAB.
+* [CommNet Antennas Info](https://spacedock.info/mod/2039/CommNet%20Antennas%20Info) expands the panel info for antennae in the VAB.
 * [Antenna Helper](https://spacedock.info/mod/1730/Antenna%20Helper) adequately and easily shows the power and ranges of combined antenna in VAB, flight and the Tracking Station.
 * [Kronometer](https://github.com/StollD/Kronometer/releases) enables in-game time to adjust to custom Kerbin day lengths. 
 * [Kerbal Alarm Clock](https://spacedock.info/mod/699/Kerbal%20Alarm%20Clock) now works with Kronometer; lets you easily mark the times for maneuvers and encounters in many flights.
-* [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements/releases) a suite of tiny Sigma mods for changing things such as the main menu scene, kerbal suits, and the skybox.
+* [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements/releases): A suite of tiny Sigma mods for changing things such as the main menu scene, kerbal suits, and the skybox.
 
 ## Licensing
 * JNSQ is licensed by Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0).
