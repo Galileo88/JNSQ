@@ -4,16 +4,9 @@
 * Updated Rational Resources bundle to 1.0.0. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/releases/tag/1.0.0).
 * Added loading screen images. Contributors' names in filenames.
 * Added more loading tips.
-* Added Kerbal Konstructs facilities:
-  * Welcome Back Island (Downrange center for reusability programs. Includes change to Kerbin terrain and its own biome).
-  * KSC Harbor with water launch.
-  * Alternate Woomerang, named "Woomera2." Appears nearby to the DLC site. Kopernicus seems to not disable this one.
-  * Alternate Dessert Airfield named "Darude." The DLC airfield will be disabled and overriden by this one.
-  * Musgrave Space Center for purely vertical space programs.
-  * Air Base. (Several instances for international airport fun.)
-  * C. Yeager Space Center for rival space programs. Includes its own harbor.
-  * 2x mountain-top observatory complexes.
-  * These require only OSSNTR (Omega's Stockalike Structures: No Textures Required). Most of these have modules on them for trading fuel, expanding DSN options, staffing with kerbals (there's a special condition for this which is unknown) and farming funds or science. Most of these need to be spotted with SCANsat's anomaly detector. Nearly all of these special modules need to be purchased before use.
+* Added several Kerbal Konstructs facilities. 
+  * These require only OSSNTR (Omega's Stockalike Structures: No Textures Required). 
+  * Most of these allow for KerbinSide airport alike experience. All of these have (not necessarily all at once) modules on them for trading fuel, expanding antenna coverage, staffing with kerbals and farming funds or science. Most of these need to be spotted with SCANsat's anomaly detector and everything needs to be purchased in career mode.
 * Fixed Kerbin biome map: Arid Mountains was missing.
 * Fixed Eve planetshine color. Should no longer be default purple.
 * Updated CelesitalBodies.pdf: fixed minor error.
