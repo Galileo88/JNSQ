@@ -1,5 +1,8 @@
 # Rational Resources
 
+## 1.0.1
+* Moved B9 tank definitions to core folder to prevent breakage of established mods containing RR tank type patches.
+
 ## 1.0
 * Split all added parts and active stock part modifications (except the experiment and the scanners) into their own mod, `RationalResourcesParts`. This allows RR itself to be a resource placement mod and absolutely nothing more, for those who want to bundle it or those who just don't want parts.
 * Added nuclear engines:
