@@ -1,7 +1,7 @@
 # JNSQ
 
 ## 0.7.1 Change log (WIP)
-* Updated Rational Resources bundle to 1.0.0. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/releases/tag/1.0.0).
+* Updated Rational Resources bundle to 1.0.1. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/blob/master/GameData/RationalResources/Version/Changelog.md#101).
 * Added loading screen images. Contributors' names in filenames.
 * Added more loading tips.
 * Added several Kerbal Konstructs facilities. 
