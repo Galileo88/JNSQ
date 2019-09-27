@@ -1,6 +1,6 @@
 # JNSQ
 
-## 0.7.1 Change log (WIP)
+## 0.8 Change log (WIP)
 * Updated Rational Resources bundle to 1.0.1. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/blob/master/GameData/RationalResources/Version/Changelog.md#101).
 * Added loading screen images thanks to KSP forum users: **Nertea, Norcalplanner, Rock3tman_, Saltshaker, StarStreak2109, Zorg**.
 * Added more loading tips.
@@ -8,7 +8,6 @@
   * These require only OSSNTR (Omega's Stockalike Structures: No Textures Required). 
   * Most of these allow for KerbinSide airport alike experience. All of these have (not necessarily all at once) modules on them for trading fuel, expanding antenna coverage, staffing with kerbals and farming funds or science, spawning a VTOL or rover on something other than KSC's launchpad or runway, recovering for up to 50%(?) funds value in career mode. Two harbors included for water launching. Most of these need to be spotted with SCANsat's anomaly detector and everything needs to be purchased in career mode.
 * Fixed Kerbin biome map: Arid Mountains was missing.
-* Fixed Eve planetshine color. Should no longer be default purple.
 * Updated CelesitalBodies.pdf: fixed minor error.
 * Updated Duna biome map: 
   * 14 biomes including 5 variants of craters.
@@ -21,6 +20,18 @@
 * Updated Rational Resources settings:
   * Eve's Shores now always Ore rich to make LFO (Kerolox) production from (near to the) Petrol Lakes convenient.
   * Added/Fixed some options for atmo edge mining.
+* Updated Visuals/Immersion:
+  * Fixed Eve planetshine color. Should no longer be default purple.
+  * New clouds for Kerbin, and Laythe. 
+  * Fog For Laythe.
+  * Dust Storms for Duna.
+  * Scatterer tweaks.
+  * Palm trees around KSC to add some character.
+  * New scatter objects on some bodies (more to come).
+  * New boulders meshes on all bodies.
+  * New coniferous tree mesh to replace the stock pine tree.
+  * New anomalies on a few bodies. (more to come later).
+  
 ## 0.7 Change log
  * Performace pass.
  * Adjust the distance in which scatter objects are rendered, including BG scatter to ensure better performance.
