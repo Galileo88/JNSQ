@@ -38,9 +38,6 @@ JNSQ is not recommened for use with other planet packs. Questions regarding othe
 * Strategia
 * Waypoint Manager
 
-## Not provided
-* Extra anomalies... Yet.
-
 ## Requirements
 * Kopernicus (latest version or latest backport release for older KSP versions)
 * ModuleManager 4 or newer
