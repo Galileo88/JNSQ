@@ -22,15 +22,15 @@
   * Added/Fixed some options for atmo edge mining.
 * Updated Visuals/Immersion:
   * Fixed Eve planetshine color. Should no longer be default purple.
-  * New clouds for Kerbin, and Laythe. 
+  * New clouds for Kerbin and Laythe. 
   * Fog For Laythe.
   * Dust Storms for Duna.
   * Scatterer tweaks.
   * Palm trees around KSC to add some character.
-  * New scatter objects on some bodies (more to come).
-  * New boulders meshes on all bodies.
+  * New scatter objects on some bodies. (More to come later.)
+  * New boulder meshes on all bodies.
   * New coniferous tree mesh to replace the stock pine tree.
-  * New anomalies on a few bodies. (more to come later).
+  * New anomalies on a few bodies. (More to come later.)
   
 ## 0.7 Change log
  * Performace pass.
