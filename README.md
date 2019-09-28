@@ -51,7 +51,6 @@ JNSQ is not recommened for use with other planet packs. Questions regarding othe
 ### Utilities
 * [CommNet Antennas Info](https://spacedock.info/mod/2039/CommNet%20Antennas%20Info) expands the panel info for antennae in the VAB.
 * [Antenna Helper](https://spacedock.info/mod/1730/Antenna%20Helper) adequately and easily shows the power and ranges of combined antenna in VAB, flight and the Tracking Station.
-* [Kronometer](https://github.com/StollD/Kronometer/releases) enables in-game time to adjust to custom Kerbin day lengths. 
 * [Kerbal Alarm Clock](https://spacedock.info/mod/699/Kerbal%20Alarm%20Clock) now works with Kronometer; lets you easily mark the times for maneuvers and encounters in many flights.
 * [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements/releases): A suite of tiny Sigma mods for changing things such as the main menu scene, kerbal suits, and the skybox.
 
