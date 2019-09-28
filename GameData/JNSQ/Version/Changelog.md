@@ -1,4 +1,6 @@
 # JNSQ
+## 0.8.1 Change log (WIP)
+* Fixed 0.8 lag fest.
 
 ## 0.8 Change log (WIP)
 * Fixed Breaking Ground compatibility.
