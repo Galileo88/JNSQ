@@ -5,7 +5,7 @@
     "CHANGE_LOG_URL":"https://raw.githubusercontent.com/Galileo88/JNSQ/master/GameData/JNSQ/Version/Changelog.md",
     "VERSION":{
         "MAJOR":0,
-        "MINOR":7,
+        "MINOR":8,
         "PATCH":0,
         "BUILD":0
     },

@@ -40,6 +40,9 @@
          "name":"PlanetShine"
       },
       {  
+         "name":"RationalResources"
+      },
+      {  
          "name":"Strategia"
       },
       {  
@@ -80,11 +83,6 @@
          "find":"GameData/JNSQ",
          "install_to":"GameData",
          "comment":"This correctly installs JNSQ"
-      },
-      {  
-         "find":"GameData/RationalResources",
-         "install_to":"GameData",
-         "comment":"This correctly installs Rational Resources for JNSQ"
       }
    ]
 }

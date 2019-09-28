@@ -1,6 +1,7 @@
 # JNSQ
 
 ## 0.8 Change log (WIP)
+* Fixed Breaking Ground compatibility.
 * Updated Rational Resources bundle to 1.0.1. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/blob/master/GameData/RationalResources/Version/Changelog.md#101).
 * Added loading screen images thanks to KSP forum users: **Nertea, Norcalplanner, Rock3tman_, Saltshaker, StarStreak2109, Zorg**.
 * Added more loading tips.
@@ -27,10 +28,12 @@
   * Dust Storms for Duna.
   * Scatterer tweaks.
   * Palm trees around KSC to add some character.
-  * New scatter objects on some bodies. (More to come later.)
+  * Icebergs for Kerbin.
+  * New scatter objects on other bodies. (More to come later.)
   * New boulder meshes on all bodies.
   * New coniferous tree mesh to replace the stock pine tree.
   * New anomalies on a few bodies. (More to come later.)
+* CKAN Indexed.
   
 ## 0.7 Change log
  * Performace pass.
