@@ -1,3 +1,12 @@
+****************************
+       ___   _______ ____ 
+      / / | / / ___// __ \
+ __  / /  |/ /\__ \/ / / /
+/ /_/ / /|  /___/ / /_/ / 
+\____/_/ |_//____/\___\_\ 
+
+****************************
+
 ![JNSQ](https://i.imgur.com/PpNgfSI.png)
 # JNSQ
 Of the French phrase *"Je Ne Sais Quoi,"* meaning *"Something (such as an appealing quality) that cannot be adequately described or expressed,"* JNSQ seeks to be a finely crafted and freshly challenging planet pack. "Galileo's Planet Pack (GPP)" as many have come to know, has broken many conventions and raised the bar very high for high-quality, challenging, career-friendly, and long-term thrilling planet packs. But now it is regarded as only a stepping stone next to this. Everything that Team Galileo has done for and learned from GPP, has been or is being put into practice here.
