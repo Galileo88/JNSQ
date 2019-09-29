@@ -137,6 +137,9 @@
       },
 	  {  
          "name":"Rescale-25"
+      },
+	  {  
+         "name":"Kronometer"
       }
    ],
    "install":[  
