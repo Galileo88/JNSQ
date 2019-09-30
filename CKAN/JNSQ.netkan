@@ -140,6 +140,9 @@
     },
     {
       "name": "Kronometer"
+    },
+	{
+      "name": "Kerbalism-Config-RO"
     }
   ],
   "install": [
