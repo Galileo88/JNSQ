@@ -5,7 +5,7 @@ Of the French phrase *"Je Ne Sais Quoi,"* meaning *"Something (such as an appeal
 Unlike GPP, JNSQ does not remove the stock planets but rather, does reimagine and reinvent them, destroying what you think you know about some of them, and answering the KSP community's cry for a true stock planet visual overhaul and the cry for the planets to be larger. JNSQ also fills out the local planetary system, providing several all new worlds to discover, with a total body count of 30, the amount in GPP excluding the dwarf star.
 
 ## Logic
-Many KSP modders have considered that while the stock parts (namely, engines) are overpowered for stock scale, they are tuned just right for 2.5x scale. With this in mind, JNSQ is built in natively "1/4 real-life scale" (2.7x stock scale) which is modestly larger than 2.5x
+Many KSP modders have considered that while the stock parts (namely, engines) are overpowered for stock scale, they are tuned just right for 2.5x scale. With this in mind, JNSQ is built in natively "1/4 real-life scale" (about 2.7x stock scale) which is modestly larger than 2.5x. Because of this change in scale, the length of the Kerbin day is now 12 hours.
 
 ## Notes
 * **Sigma Dimensions** and **Rescale!** are not required for JNSQ to function, and are discouraged from use alongside JNSQ.
