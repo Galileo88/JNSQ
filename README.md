@@ -20,7 +20,7 @@ JNSQ introduces and bundles a new utility mod that depends on the Community Reso
 
 Compatibility for mods that expect the stock planets with default topology, biomes, order or radii is not to be expected and will not be provided by us.
 
-JNSQ is not recommened for use with other planet packs. Questions regarding other planet pack compatibility will be ignored.
+JNSQ is not recommended for use with other planet packs. Questions regarding other planet pack compatibility will be ignored.
 
 ## Provided Compatibility
 * Distant Object Enhancement
