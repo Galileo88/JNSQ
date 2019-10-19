@@ -12,6 +12,11 @@ Many KSP modders have considered that while the stock parts (namely, engines) ar
 * When starting new saves under JNSQ, we advise that you enter Difficulty Settings and raise the DSN modifier to 4x. JNSQ applies a patch to increase antenna range by 4x, so leave the range modifier at 1 (changing it triggers a bug that may prevent science transmission).
 * The Making History LV-TX87 and LV-T91 engines have had their thrust, mass and cost increased 25% and 20% respectively. This change was deemed necessary to assure they can lift a Mk2 command pod and service module to low orbit at JNSQ's larger scale.
 * JNSQ retains the stockalike Kerbin-Mun-Minmus system to conform to game elements outside or our control, such as the built-in contract system. Be advised, however, this configuration is unstable. For users of the mod Principia, the orbit of Minmus is moved inside that of Mun to provide orbital stability.
+* JNSQ raises the SCANsat scan altitudes by 3x in order to allow reasonable scan speeds at 2.7x scale, and viable scan work at all but the smallest bodies.
+* JNSQ provides at least 14 facilities powered by Kerbal Konstructs + [Omega's Stockalike Stuctures](https://spacedock.info/mod/2061/Omega%27s%20Stockalike%20Structures:%20No%20Textures%20Required). Most of these facilities have gameplay features within them for making use of spare kerbals, launching and refueling ships, farming funds or science, expanding DSN coverage, recovering for funds in career. Most of these facilities are hidden by default and must be found.
+  * 9 of these are airports.
+  * 2 of these directly replace the MH launch sites (Woomera2 for Woomerang, and Darude for Dessert).
+  * 2 of these are mountain-top observatories with science farming and full DSN capabilities. 
 
 ## Disclaimer / Barrier to Entry
 :warning: The target audience for JNSQ is the same as, if not narrower, than that of GPP. This mod is made not for the player-base at large, but for seasoned players: who greatly respect rocketry, realism and physics; who do not hold much regard for maintaining "stockalike" and "stock scale;" who are willing and able to mod their way to a great or greater game and who are able to troubleshoot a damaged install for themselves and help us to help them.
@@ -39,7 +44,7 @@ JNSQ is not recommended for use with other planet packs. Questions regarding oth
 * Waypoint Manager
 
 ## Requirements
-* Kopernicus (latest version or latest backport release for older KSP versions)
+* Kopernicus (latest version for your specific version of KSP, or latest backport release for older KSP versions)
 * ModuleManager 4 or newer
 * Minimum Hardware: 3 GHz quad-core CPU, 16GB of system RAM and 2GB of video memory
 
@@ -49,9 +54,11 @@ JNSQ is not recommended for use with other planet packs. Questions regarding oth
 * [JX2 Antenna](https://spacedock.info/mod/1107/JX2Antenna), late-game antennae made to reduce the need to spam RA-15 and RA-100 and preclude the need to install Custom Barn Kit.
 
 ### Utilities
-* [CommNet Antennas Info](https://spacedock.info/mod/2039/CommNet%20Antennas%20Info) expands the panel info for antennae in the VAB.
 * [Antenna Helper](https://spacedock.info/mod/1730/Antenna%20Helper) adequately and easily shows the power and ranges of combined antenna in VAB, flight and the Tracking Station.
+* [Better SRBs](https://github.com/OhioBob/BetterSRBs/releases): Although a small engine pack, it is primarily a utility. This mod adds very much needed behavior and appropriate rebalances to SRBs in stock and in a handful of popular large parts packs.
+* [CommNet Antennas Info](https://spacedock.info/mod/2039/CommNet%20Antennas%20Info) expands the panel info for antennae in the VAB.
 * [Kerbal Alarm Clock](https://spacedock.info/mod/699/Kerbal%20Alarm%20Clock) now works with Kronometer; lets you easily mark the times for maneuvers and encounters in many flights.
+* [SCANsat](https://spacedock.info/mod/129/SCANsat): A tiny mod that adds a few parts but is critical to an exploration or ISRU game. Highly recommended for discovering anomalies including most of JNSQ's KK facilities and identifying atypical resource placements by Rational Resources.
 * [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements/releases): A suite of tiny Sigma mods for changing things such as the main menu scene, kerbal suits, and the skybox.
 
 ## Licensing
