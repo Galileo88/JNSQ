@@ -1,5 +1,6 @@
 # JNSQ
 ## 0.8.5 Change log (WIP)
+:bookmark: *KSP 1.7.1 ~ 1.7.3*
 * Added MachFX tweak: Changed plasma transition range from Mach 2.5 ~ 3.5 to Mach 4.5 ~ 6.5, thanks to players: **CalicoJackRackam, Rocketology**.
 * Added 3x multiplier to SCANsat scanner altitudes.
 * Adjusted Kerbal Konstructs facilities:
