@@ -1,6 +1,6 @@
 # JNSQ
 ## 0.8.5 Change log (WIP)
-* Added MachFX tweak: Changed plasma transition range from Mach 2.5~3.5 to 4.5~6.5, thanks to players: **CalicoJackRackam, Rocketology**.
+* Added MachFX tweak: Changed plasma transition range from Mach 2.5 ~ 3.5 to Mach 4.5 ~ 6.5, thanks to players: **CalicoJackRackam, Rocketology**.
 * Added 3x multiplier to SCANsat scanner altitudes.
 * Adjusted Kerbal Konstructs facilities:
   * Buffed prices on everything. Funds ROI at business facilities break-even at 3 years with 1 kerbal or 1 year with max staff.
