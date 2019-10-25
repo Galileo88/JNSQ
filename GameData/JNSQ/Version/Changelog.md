@@ -9,9 +9,10 @@
   * Added features to Woomera2 and made it now override Woomerang.
   * Fixed tile grass colors at all sites.
   * Added and removed color presets.
-* Added new, more defined celestial body textures.
+* Added new, more defined celestial body textures. Nudging at Squad that we don't need a new shader to play the "stock visual terain" game.
 * Adjusted ocean colors.
 * Updated Rational Resources bundle to 1.0.2. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/blob/master/GameData/RationalResources/Version/Changelog.md#102).
+* Removed installer (.exe) option. Unfortunately it was proven more inconvenient than convenient.
 
 
 ## 0.8.1 Change log
