@@ -9,12 +9,14 @@
   * Added features to Woomera2 and made it now override Woomerang.
   * Fixed tile grass colors at all sites.
   * Added and removed color presets.
+  * New, more defined celestial body textures.
+  * Adjusted ocean colors.
   
 
 ## 0.8.1 Change log
 * Fixed 0.8 lag fest.
 
-## 0.8 Change log (WIP)
+## 0.8 Change log
 * Fixed Breaking Ground compatibility.
 * Updated Rational Resources bundle to 1.0.1. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/blob/master/GameData/RationalResources/Version/Changelog.md#101).
 * Added loading screen images thanks to KSP forum users: **Nertea, Norcalplanner, Rock3tman_, Saltshaker, StarStreak2109, Zorg**.
