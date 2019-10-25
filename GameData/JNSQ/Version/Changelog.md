@@ -1,5 +1,5 @@
 # JNSQ
-## 0.8.5 Change log (WIP)
+## 0.8.5 Change log
 :bookmark: *KSP 1.7.1 ~ 1.7.3*
 * Added MachFX tweak: Changed plasma transition range from Mach 2.5 ~ 3.5 to Mach 4.5 ~ 6.5, thanks to players: **CalicoJackRackam, Rocketology**.
 * Added 3x multiplier to SCANsat scanner altitudes.
@@ -9,9 +9,10 @@
   * Added features to Woomera2 and made it now override Woomerang.
   * Fixed tile grass colors at all sites.
   * Added and removed color presets.
-  * New, more defined celestial body textures.
-  * Adjusted ocean colors.
-  
+* Added new, more defined celestial body textures.
+* Adjusted ocean colors.
+* Updated Rational Resources bundle to 1.0.2. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/blob/master/GameData/RationalResources/Version/Changelog.md#102).
+
 
 ## 0.8.1 Change log
 * Fixed 0.8 lag fest.
