@@ -24,5 +24,10 @@
 		"MINOR":7,
 		"PATCH":3
 	},
+	"INSTALL_LOC":
+	{
+		"NAME": "Rational Resources",
+		"PATH": "RationalResources/Version/RationalResources.version"
+	}
 }
 
