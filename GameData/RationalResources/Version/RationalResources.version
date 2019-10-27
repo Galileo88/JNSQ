@@ -15,7 +15,7 @@
 	{
 		"MAJOR":1,
 		"MINOR":0,
-		"PATCH":1,
+		"PATCH":2,
 		"BUILD":0
 	},
 	"KSP_VERSION":
@@ -24,5 +24,10 @@
 		"MINOR":7,
 		"PATCH":3
 	},
+	"INSTALL_LOC":
+	{
+		"NAME": "Rational Resources",
+		"PATH": "RationalResources/Version/RationalResources.version"
+	}
 }
 

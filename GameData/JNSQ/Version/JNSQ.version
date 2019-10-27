@@ -6,7 +6,7 @@
     "VERSION":{
         "MAJOR":0,
         "MINOR":8,
-        "PATCH":1,
+        "PATCH":5,
         "BUILD":0
     },
     "KSP_VERSION":{
@@ -23,5 +23,10 @@
         "MAJOR":1,
         "MINOR":7,
         "PATCH":3
-    }
+    },
+	"INSTALL_LOC":
+	{
+		"NAME": "JNSQ",
+		"PATH": "JNSQ/Version/JNSQ.version"
+	}
 }

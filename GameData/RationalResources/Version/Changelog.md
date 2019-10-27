@@ -1,5 +1,10 @@
 # Rational Resources
 
+## 1.0.2
+* Updated SSPXr extras config. Caught redundant/overlapping subtypes.
+* Added WBI logistics module to all stock parts when TankSwitchForSquad patch is active and Rational Resources is in Classic Stock play mode.
+* Tiny adjustments to nuclear engines.
+
 ## 1.0.1
 * Moved B9 tank definitions to core folder to prevent breakage of established mods containing RR tank type patches.
 

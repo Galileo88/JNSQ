@@ -206,4 +206,10 @@
 			secondaryColor = Lavender
 		}
 	}
+	
+	MODULE
+	{
+		name = WBIResourceDistributor
+		resourceBlacklist = ReplacementParts;StaleAir
+	}
 }
