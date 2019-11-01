@@ -1,4 +1,14 @@
 # JNSQ
+## 0.8.6 Change log
+* Added Huygen, a moon of Lindor, including all associated revisions.
+* Added asteriod fields around Jool and Lindor.
+* Revised orbit of Riga to accommodate Huygen.
+* Changed Bop's orbit to prograde, retrograde for Principia only.
+* Fixed KK center headings.
+* Rotated palms trees around KSC.
+* Updated HazardousBody heat parameters.
+* Updated delta-V map.
+
 ## 0.8.5 Change log
 :bookmark: *KSP 1.7.1 ~ 1.7.3*
 * Added MachFX tweak: Changed plasma transition range from Mach 2.5 ~ 3.5 to Mach 4.5 ~ 6.5, thanks to players: **CalicoJackRackam, Rocketology**.
@@ -13,7 +23,6 @@
 * Adjusted ocean colors.
 * Updated Rational Resources bundle to 1.0.2. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/blob/master/GameData/RationalResources/Version/Changelog.md#102).
 * Removed installer (.exe) option. Unfortunately it was proven more inconvenient than convenient.
-
 
 ## 0.8.1 Change log
 * Fixed 0.8 lag fest.
