@@ -1,20 +1,20 @@
 # JNSQ
 ## 0.8.6 Change log
 :bookmark: *KSP 1.7.1 ~ 1.7.3*
-* New textures for Jool and Lindor.
-* Made Lindor's rings more opaque.
-* Added Huygen, a moon of Lindor, including all associated revisions.
-* Added asteriod fields around Jool and Lindor.
-* Revised orbit of Riga to accommodate Huygen.
-* Changed Bop's orbit to prograde, retrograde for Principia only.
-* Fixed KK center headings.
+* Updated Jool and Lindor:
+  * Made Lindor's rings more opaque.
+  * New textures and updated biome maps.
+  * Added Huygen, a moon of Lindor, including all associated revisions.
+  * Added local asteriod fields.
+  * Revised orbit of Riga to accommodate Huygen.
+  * Changed Bop's orbit to prograde. It remains retrograde for Principia only.
+* Fixed KK center headings. This fix may not apply in KK for KSP 1.7 or older. Confirmed for KSP 1.8.
 * Rotated palms trees around KSC.
 * Updated HazardousBody heat parameters.
-* Updated delta-V map.
-* Added AntennaRange.png. 
+* Updated delta-V map: Darkened some gray texts and added Huygen.
+* Added AntennaRange.png: a chart for measuring how much of what stock antennas (or the JX2 antenna) are required for many situations.
 
 ## 0.8.5 Change log
-:bookmark: *KSP 1.7.1 ~ 1.7.3*
 * Added MachFX tweak: Changed plasma transition range from Mach 2.5 ~ 3.5 to Mach 4.5 ~ 6.5, thanks to players: **CalicoJackRackam, Rocketology**.
 * Added 3x multiplier to SCANsat scanner altitudes.
 * Adjusted Kerbal Konstructs facilities:
