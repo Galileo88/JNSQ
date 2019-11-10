@@ -1,5 +1,8 @@
 # JNSQ
 ## 0.8.6 Change log
+:bookmark: *KSP 1.7.1 ~ 1.7.3*
+* New textures for Jool and Lindor.
+* Made Lindor's rings more opaque.
 * Added Huygen, a moon of Lindor, including all associated revisions.
 * Added asteriod fields around Jool and Lindor.
 * Revised orbit of Riga to accommodate Huygen.
@@ -8,6 +11,7 @@
 * Rotated palms trees around KSC.
 * Updated HazardousBody heat parameters.
 * Updated delta-V map.
+* Added AntennaRange.png. 
 
 ## 0.8.5 Change log
 :bookmark: *KSP 1.7.1 ~ 1.7.3*
