@@ -1,8 +1,8 @@
-![JNSQ](https://i.imgur.com/PpNgfSI.png)
+![JNSQ](https://i.imgur.com/mEjxx1R.png)
 # JNSQ
 Of the French phrase *"Je Ne Sais Quoi,"* meaning *"Something (such as an appealing quality) that cannot be adequately described or expressed,"* JNSQ seeks to be a finely crafted and freshly challenging planet pack. "Galileo's Planet Pack (GPP)" as many have come to know, has broken many conventions and raised the bar very high for high-quality, challenging, career-friendly, and long-term thrilling planet packs. But now it is regarded as only a stepping stone next to this. Everything that Team Galileo has done for and learned from GPP, has been or is being put into practice here.
 
-Unlike GPP, JNSQ does not remove the stock planets but rather, does reimagine and reinvent them, destroying what you think you know about some of them, and answering the KSP community's cry for a true stock planet visual overhaul and the cry for the planets to be larger. JNSQ also fills out the local planetary system, providing several all new worlds to discover, with a total body count of 30, the amount in GPP excluding the dwarf star.
+Unlike GPP, JNSQ does not remove the stock planets but rather, does reimagine and reinvent them, destroying what you think you know about some of them, and answering the KSP community's cry for a true stock planet visual overhaul and the cry for the planets to be larger. JNSQ also fills out the local planetary system, providing several all new worlds to discover, with a total body count of 31, the amount in GPP.
 
 ## Logic
 Many KSP modders have considered that while the stock parts (namely, engines) are overpowered for stock scale, they are tuned just right for 2.5x scale. With this in mind, JNSQ is built in natively "1/4 real-life scale" (about 2.7x stock scale) which is modestly larger than 2.5x. Because of this change in scale, the length of the Kerbin day is now 12 hours.
