@@ -13,6 +13,7 @@
 * Updated HazardousBody heat parameters.
 * Updated delta-V map: Darkened some gray texts and added Huygen.
 * Added AntennaRange.png: a chart for measuring how much of what stock antennas (or the JX2 antenna) are required for many situations.
+* Replaced loading screen images. Emphasis was too far on the part mods and away from the bodies; Bodies have heavily changed since previous images were produced.
 
 ## 0.8.5 Change log
 * Added MachFX tweak: Changed plasma transition range from Mach 2.5 ~ 3.5 to Mach 4.5 ~ 6.5, thanks to players: **CalicoJackRackam, Rocketology**.
