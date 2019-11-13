@@ -15,8 +15,6 @@
   "provides": [
     "EnvironmentalVisualEnhancements-Config",
     "Scatterer-sunflare",
-    "DistantObject-config",
-    "PlanetShine-Config",
     "Kronometer"
   ],
   "depends": [
@@ -107,9 +105,6 @@
     },
     {
       "name": "DistantObject-RealSolarSystem"
-    },
-    {
-      "name": "PlanetShine-Config"
     },
     {
       "name": "CustomBarnKit-RO"
