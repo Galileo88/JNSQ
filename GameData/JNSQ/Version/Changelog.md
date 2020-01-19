@@ -8,13 +8,15 @@
   * Added C. McAuliffe space center.
   * Added Welcome Island Harbor.
   * Adjusted tile colors (mostly) to match terrain texture updates.
-  * Adjusted hangar mass limits, raise hangar prices, buff standalone util building's storage volume.
+  * Adjusted hangar mass limits, raised hangar prices, buffed standalone util building's storage volume.
   * Adjusted C. Yeager space center to not have a box mountain range around it anymore.
   * All bases now aligned to the cardinal directions. North runway actually points north. This is due to a KK fix only available for KSP 1.8 and later.
+  * Fixed CRP patch structure. It's now contained in a single file. It applies to all fuel depot statics. It will provide WBI Classic stock resources if the WBI `ClassicStock` pseudo-mod is detected.
 * Updated asteroids: Now they are only 3.3x dense as stock where they were 33x which was far too much.
 * Updated planet textures to use KSP new terrain shaders.
 * Updated Jool and Lindor:
   * Added some more wow factor.
+  * Adjusted/Fixed HazardousBody. Jool-diving remains an exercise in extreme steam bathing.
   * Lindor's rings now have a detail texture to simulate granular debris fields.
 * Updated Moho: new biome map + Rational Resources config.
 
