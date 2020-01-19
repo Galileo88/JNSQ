@@ -3,6 +3,7 @@
 ## 0.9.0 Change log 
 :bookmark: *KSP 1.8.1+*
 * Updated "No ghosts" feature to work with sunflare in scatterer mode.
+* Updated antenna patch to handle NF Exploration's antenna module (**not** the reflector module).
 * Updated KK bases:
   * Added AirBase (airplane) Boneyard, 30km south west of KSC.
   * Added C. McAuliffe space center.
