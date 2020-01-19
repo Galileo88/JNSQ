@@ -1,4 +1,23 @@
 # JNSQ
+
+## 0.9.0 Change log 
+:bookmark: *KSP 1.8.1+*
+* Updated "No ghosts" feature to work with sunflare in scatterer mode.
+* Updated KK bases:
+  * Added AirBase (airplane) Boneyard, 30km south west of KSC.
+  * Added C. McAuliffe space center.
+  * Added Welcome Island Harbor.
+  * Adjusted tile colors (mostly) to match terrain texture updates.
+  * Adjusted hangar mass limits, raise hangar prices, buff standalone util building's storage volume.
+  * Adjusted C. Yeager space center to not have a box mountain range around it anymore.
+  * All bases now aligned to the cardinal directions. North runway actually points north. This is due to a KK fix only available for KSP 1.8 and later.
+* Updated asteroids: Now they are only 3.3x dense as stock where they were 33x which was far too much.
+* Updated planet textures to use KSP new terrain shaders.
+* Updated Jool and Lindor:
+  * Added some more wow factor.
+  * Lindor's rings now have a detail texture to simulate granular debris fields.
+* Updated Moho: new biome map + Rational Resources config.
+
 ## 0.8.6 Change log
 :bookmark: *KSP 1.7.1 ~ 1.7.3*
 * Updated Jool and Lindor:
