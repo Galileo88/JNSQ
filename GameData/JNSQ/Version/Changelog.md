@@ -2,17 +2,19 @@
 
 ## 0.9.0 Change log 
 :bookmark: *KSP 1.8.1+*
-* Updated "No ghosts" feature to work with sunflare in scatterer mode.
+* Updated "No ghosts" sunflare feature to work in scatterer mode.
 * Updated antenna patch to handle NF Exploration's antenna module (**not** the reflector module).
 * Updated KK bases:
   * Added AirBase (airplane) Boneyard, 30km south west of KSC.
   * Added C. McAuliffe space center.
   * Added Welcome Island Harbor.
-  * Adjusted tile colors (mostly) to match terrain texture updates.
   * Adjusted hangar mass limits, raised hangar prices, buffed standalone util building's storage volume.
   * Adjusted C. Yeager space center to not have a box mountain range around it anymore.
+  * Adjusted Darude base concerning static positions and a contract waypoint marker. Any landed craft here may be offset or destroyed.
+  * Adjusted tile colors to match terrain texture updates.
   * All bases now aligned to the cardinal directions. North runway actually points north. This is due to a KK fix only available for KSP 1.8 and later.
-  * Fixed CRP patch structure. It's now contained in a single file. It applies to all fuel depot statics. It will provide WBI Classic stock resources if the WBI `ClassicStock` pseudo-mod is detected.
+  * Fixed CRP patch structure. It's now contained in a single file. It applies to all fuel depot STATIC:NEEDS[OSSNTR]s. It will provide WBI Classic stock resources if the WBI `ClassicStock` pseudo-mod is detected.
+  * Made observatory centers discoverable (as anomalies) via SCANsat.
 * Updated asteroids: Now they are only 3.3x dense as stock where they were 33x which was far too much.
 * Updated planet terrain textures to use KSP new terrain shaders.
 * Updated Jool and Lindor:
