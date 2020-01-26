@@ -13,7 +13,7 @@
   * Adjusted Darude base concerning static positions and a contract waypoint marker. Any landed craft here may be offset or destroyed.
   * Adjusted tile colors to match terrain texture updates.
   * All bases now aligned to the cardinal directions. North runway actually points north. This is due to a KK fix only available for KSP 1.8 and later.
-  * Fixed CRP patch structure. It's now contained in a single file. It applies to all fuel depot STATIC:NEEDS[OSSNTR]s. It will provide WBI Classic stock resources if the WBI `ClassicStock` pseudo-mod is detected.
+  * Fixed CRP patch structure. It's now contained in a single file. It applies to all fuel depot statics. It will provide WBI Classic stock resources if the WBI `ClassicStock` pseudo-mod is detected.
   * Made observatory centers discoverable (as anomalies) via SCANsat.
 * Updated asteroids: Now they are only 3.3x dense as stock where they were 33x which was far too much.
 * Updated planet terrain textures to use KSP new terrain shaders.
