@@ -2,6 +2,7 @@
 
 ## 0.9.0 Change log 
 :bookmark: *KSP 1.8.1+*
+* Added Localization framework.
 * Updated "No ghosts" sunflare feature to work in scatterer mode.
 * Updated antenna patch to handle NF Exploration's antenna module (**not** the reflector module).
 * Updated KK bases:
