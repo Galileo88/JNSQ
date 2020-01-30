@@ -4,9 +4,9 @@ Localization is easy to do and highly appreciated to receive. If you would like 
 * `en-us` for English US
 * `de-de` for German
 * `es-es` for Spanish
-* `es-mx` for Mexican (Spanish)
+* `es-mx` for Mexican Spanish
 * `fr-fr` for French
-* (unknown) for Italian
+* `it-it` for Italian (not confirmed)
 * `ja` for Japanese
 * `pt-br` for Portugese-Brazilian
 * `ru` for Russian
