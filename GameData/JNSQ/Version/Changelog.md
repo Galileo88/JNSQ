@@ -27,7 +27,8 @@
   * Lindor's rings now have a detail texture to simulate granular debris fields.
 * Updated Kerbin: expanded arid biomes region southward around and over Darude base.
 * Updated Moho: new biome map + Rational Resources config.
-* Update Nara: new surface + new biome map.
+* Updated Nara: new surface + new biome map.
+* Updated Rational Resources bundle to 1.1.0. [Full changelog here](https://github.com/JadeOfMaar/RationalResources/blob/master/GameData/RationalResources/Version/Changelog.md#110).
 
 ## 0.8.6 Change log
 :bookmark: *KSP 1.7.1 ~ 1.7.3*
