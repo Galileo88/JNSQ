@@ -27,6 +27,10 @@ Compatibility for mods that expect the stock planets with default topology, biom
 
 JNSQ is not recommended for use with other planet packs. Questions regarding other planet pack compatibility will be ignored.
 
+## Localizations
+* German
+* Italian
+
 ## Provided Compatibility
 * Distant Object Enhancement
 * Environmental Visual Enhancements
@@ -57,6 +61,7 @@ JNSQ is not recommended for use with other planet packs. Questions regarding oth
 * [Antenna Helper](https://spacedock.info/mod/1730/Antenna%20Helper) adequately and easily shows the power and ranges of combined antenna in VAB, flight and the Tracking Station.
 * [Better SRBs](https://github.com/OhioBob/BetterSRBs/releases): Although a small engine pack, it is primarily a utility. This mod adds very much needed behavior and appropriate rebalances to SRBs in stock and in a handful of popular large parts packs.
 * [CommNet Antennas Info](https://spacedock.info/mod/2039/CommNet%20Antennas%20Info) expands the panel info for antennae in the VAB.
+* [Contract Reward Modifier](https://spacedock.info/mod/132/Contract%20Reward%20Modifier) allows you to easily scale rewards and penalties to maintain their balance for up-scaled systems.
 * [Kerbal Alarm Clock](https://spacedock.info/mod/699/Kerbal%20Alarm%20Clock) now works with Kronometer; lets you easily mark the times for maneuvers and encounters in many flights.
 * [SCANsat](https://spacedock.info/mod/129/SCANsat): A tiny mod that adds a few parts but is critical to an exploration or ISRU game. Highly recommended for discovering anomalies including most of JNSQ's KK facilities and identifying atypical resource placements by Rational Resources.
 * [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements/releases): A suite of tiny Sigma mods for changing things such as the main menu scene, kerbal suits, and the skybox.
