@@ -3,7 +3,7 @@ Localization is easy to do and highly appreciated to receive. If you would like 
 
 The options below are used to represent languages for KSP: 
 
-* `en-us` for English US
+* `en-us` for English US :white_check_mark:
 * `de-de` for German :white_check_mark:
 * `es-es` for Spanish
 * `es-mx` for Mexican Spanish
