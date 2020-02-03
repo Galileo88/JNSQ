@@ -27,6 +27,8 @@
 	"INSTALL_LOC":
 	{
 		"NAME": "JNSQ",
-		"PATH": "JNSQ/Version/JNSQ.version"
+		"PATH": "",
+		"DIRECTORY": "JNSQ/Version/",
+		"FILE": "JNSQ.version"
 	}
 }
