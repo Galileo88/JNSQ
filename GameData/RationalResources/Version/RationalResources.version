@@ -26,8 +26,10 @@
 	},
 	"INSTALL_LOC":
 	{
-		"NAME": "Rational Resources",
-		"PATH": "RationalResources/Version/RationalResources.version"
+		"NAME": "RationalResources",
+		"PATH": "",
+		"DIRECTORY": "RationalResources/Version/",
+		"FILE": "RationalResources.version"
 	}
 }
 
