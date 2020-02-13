@@ -1,5 +1,15 @@
 # Rational Resources
 
+## 1.2.0
+* Added missing Water splitter.
+* Added Kerosene (LH2 + Carbon --> LiquidFuel) converter.
+* Fixed missing outputs in Hydrates Splitter.
+* Fixed Alumina and Monazite drills consuming 5x ElectricCharge for their 5x efficiency.
+* Made Carbon output available in CO2 splitter.
+* Made BlackSmith patch only activate if RR Parts is installed.
+* Moved Carbon and CarbonDioxide tank types to be immediately beside each other for Ore tanks.
+* Renamed and rearranged some converters.
+
 ## 1.1.0
 * Added input fuel switch to fuel cells. (Not available for Classic Stock due to OmniConverters.)
   * LFO, Hydrolox, Methalox for stock.
