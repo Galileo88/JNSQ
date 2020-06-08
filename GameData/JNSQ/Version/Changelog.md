@@ -1,5 +1,21 @@
 # JNSQ
 
+## TBD
+* Added dark mode dV map.
+* Included RemoteTech in antenna range multiplier. (Thanks to @armegeddon cn GitHub).
+* Included part upgrades in antenna range multiplier. (Thanks to @jsolson cn GitHub).
+* Removed KerbalHealth config. KerbalHealth has chosen to host all JNSQ configs in itself.
+* Updated TweakChutes to hopefully properly respond to FAR/RealChute.
+* Updated KK:
+  * Added three more space centers. (Hidden)
+  * Added runway section to S. Musgrave.
+  * Added barracks to all bases that were missing them, including observatories.
+  * Buffed barracks capacities at astronaut complexes.
+  * Fixed duplicate launch site names for helipads and rovers.
+  * Fixed orientation or offset of some bases.
+  * Fixed west vs east runways.
+  
+
 ## 0.9.0 Change log 
 :bookmark: *KSP 1.8.1+*
 * Added Localization for biomes, body descriptions and loading screen tips:
