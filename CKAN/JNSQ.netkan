@@ -13,8 +13,7 @@
     "repository": "https://github.com/Galileo88/JNSQ"
   },
   "provides": [
-    "EnvironmentalVisualEnhancements-Config",
-    "Kronometer"
+    "EnvironmentalVisualEnhancements-Config"
   ],
   "depends": [
     {
@@ -25,6 +24,9 @@
     },
     {
       "name": "Scatterer-sunflare-default"
+    },
+    {
+      "name": "Kronometer"
     }
   ],
   "suggests": [
@@ -143,7 +145,8 @@
     {
       "find": "GameData/JNSQ",
       "install_to": "GameData",
-      "comment": "This correctly installs JNSQ"
+      "comment": "This correctly installs JNSQ",
+      "filter": [ "Kronometer" ]
     }
   ]
 }
