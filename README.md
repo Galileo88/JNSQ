@@ -35,7 +35,6 @@ JNSQ is not recommended for use with other planet packs. Questions regarding oth
 ## Provided Compatibility
 * Distant Object Enhancement
 * Environmental Visual Enhancements
-* Kerbal Health
 * Kerbal Konstructs: We roll our own extra launch sites
 * Kerbalism
 * Kopernicus Expansion: Footprints
@@ -43,7 +42,7 @@ JNSQ is not recommended for use with other planet packs. Questions regarding oth
 * Planetshine
 * Rational Resources
 * ResearchBodies
-* Scatterer (very specifically 0.05x or newer, for KSP 1.6.1 or newer)
+* Scatterer
 * Skybox via Sigma Replacements, DiRT, TextureReplacer
 * Strategia
 * Waypoint Manager

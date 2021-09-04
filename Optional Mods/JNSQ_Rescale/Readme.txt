@@ -6,7 +6,7 @@ JNSQ_Rescale is an optional mod that allows either JNSQ to be resized, or other 
 
 ## JNSQ Resized to 1/10th Real Scale or Real Scale
 
-JNSQ can be resized from its normal 1/4 real scale to either 1/10th real scale or real scale, by applying dimension multipliers of 0.4 and 4 respectively. These scales are referred to more commonly as 1x and 10x, indicating their size relative to stock scale. Rescaling is accomplished without the use of Sigma Dimensions (these mods should never be used in combination with Sigma Dimensions). JNSQ also works with GEP and/or GPP (secondary mode) in any of the following installation options, using the appropriate JNSQ, GEP and GPP rescale mods to provide size compatibility.
+JNSQ can be resized from its normal 1/4th real scale to either 1/10th real scale or real scale, by applying dimension multipliers of 0.4 and 4 respectively. These scales are referred to more commonly as 1x and 10x, indicating their size relative to stock scale. Rescaling is accomplished without the use of Sigma Dimensions (these mods should never be used in combination with Sigma Dimensions). JNSQ also works with GEP and/or GPP (secondary mode) in any of the following installation options, using the appropriate JNSQ, GEP and GPP rescale mods to provide size compatibility.
 
   * JNSQ                                     |
   * JNSQ + GEP                               | + applicable Rescale mods
