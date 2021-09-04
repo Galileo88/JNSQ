@@ -1,9 +1,24 @@
 # JNSQ
 
-## TBD
+## 0.10.0 Change log
+* Deleted Kronometer from JNSQ (must now be dowloaded and installed separately).
+* Changed game start time to 6:00 UT--sunrise at KSC (requires Kronometer).
+* Added optional Rescale configs:
+  * JNSQ can now be rescaled to stock size (1x) or real scale (10x).
+  * Stock-sized planet packs can be rescaled to fit JNSQ (requires Sigma Dimensions).
+* Revised atmospheres (surface pressure unchanged, heights may be different).
+* Revised CelestialBodies.pdf (atmophere changes).
+* Revised flying altitude thresholds.
+* Revised NavBall switch radius multipliers.
+* Revised asteroids so that they better populate the desired fields.
+* Changed Eeloo's rotational period to 8 hours.
+* Fixed Bop's rotation to retrograde for Principia users.
+* Reduced Minmus' science values for Principia users.
+* Added one biome each to Dres and Edna.
 * Added dark mode dV map.
-* Included RemoteTech in antenna range multiplier. (Thanks to @armegeddon cn GitHub).
-* Included part upgrades in antenna range multiplier. (Thanks to @jsolson cn GitHub).
+* Converted celestial body icons to .png (thanks to @yalov cn GitHub).
+* Included RemoteTech in antenna range multiplier (thanks to @armegeddon cn GitHub).
+* Included part upgrades in antenna range multiplier (thanks to @jsolson cn GitHub).
 * Removed KerbalHealth config. KerbalHealth has chosen to host all JNSQ configs in itself.
 * Updated TweakChutes to hopefully properly respond to FAR/RealChute.
 * Updated KK:
@@ -14,7 +29,7 @@
   * Fixed duplicate launch site names for helipads and rovers.
   * Fixed orientation or offset of some bases.
   * Fixed west vs east runways.
-  
+* Deleted MyRocksAreBiggerThanYours plugin (now part of Kopernicus).  
 
 ## 0.9.0 Change log 
 :bookmark: *KSP 1.8.1+*
