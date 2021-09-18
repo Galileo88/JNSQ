@@ -5,6 +5,11 @@ FinalFrontier
 Drop the "Nereid" folder into the GameData folder of your preferred KSP install. This is found in JNSQ_FinalFrontier/GameData/ 
 
 
+JNSQ_Rescale
+= = = =
+See the Readme within the JNSQ_Rescale folder.
+
+
 RationalResources (Parts pack)
 = = = =
 Drop the "RationalResourcesParts" folder into the GameData folder of your preferred KSP install. This is found in RationalResources_Extras/GameData/

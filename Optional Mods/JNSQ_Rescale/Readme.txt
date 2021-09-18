@@ -21,10 +21,9 @@ To install JNSQ_Rescale:
 
 6. It is recommended that the DSN modifier in game difficulty be set to 1.6 for 1x scale or 16 for 10x scale.
 
-
 ## PartRebalancer10x
 
-PartRebalancer10x is an optional mod that makes wide-sweeping changes to the mass of parts and the density of propellants to give rockets more lifelike mass ratios so they can attain the higher performance necessary when playing at real scale (10x). It is provided as a simple alternative to using mods such as Realism Overhaul, ROMini, or SMURFF. While PartRebalancer10x certainly doesn't provide the same level of realism as Realism Overhaul, it does allow you to jump in and immediately start playing at 10x scale with parts properly balanced for the task. PartRebalancer10x is an ideal stepping stone for first-timers to 10x scale who want to experiment before making the jump to Realism Overhaul.
+PartRebalancer10x is an optional mod that makes changes to the mass of parts and the density of propellants to give rockets more lifelike mass ratios so they can attain the higher performance necessary when playing at real scale (10x). It is provided as a simple alternative to using mods such as Realism Overhaul, ROMini, or SMURFF. While PartRebalancer10x certainly doesn't provide the same level of realism as Realism Overhaul, it does allow you to jump in and immediately start playing at 10x scale with parts properly balanced for the task. PartRebalancer10x is an ideal stepping stone for first-timers to 10x scale who want to experiment before making the jump to Realism Overhaul. We recommend the addition of BetterSRBs for even more likelife solid rocket performance.
 
 To install PartRebalancer10x:
 
