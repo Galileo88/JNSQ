@@ -3,9 +3,7 @@
 ## 0.10.0 Change log
 * Deleted Kronometer from JNSQ (must now be downloaded and installed separately).
 * Changed game start time to 6:00 UT--sunrise at KSC (requires Kronometer).
-* Added optional Rescale configs:
-  * JNSQ can now be rescaled to stock size (1x) or real scale (10x).
-  * Stock-sized planet packs can be rescaled to fit JNSQ (requires Sigma Dimensions).
+* Added JNSQ_Rescale for 1x and 10x versions of JNSQ.
 * Revised atmospheres (surface pressure unchanged, heights may be different).
 * Revised CelestialBodies.pdf (atmosphere changes).
 * Revised flying altitude thresholds.
