@@ -16,6 +16,7 @@
 * Revised NavBall switch radius multipliers.
 * Revised asteroids so that they better populate the desired fields.
 * Reduced Minmus' science values for Principia users.
+* Reduced SCANsat altitude multipliers from 3x to 1.5x.
 * Removed KerbalHealth config. KerbalHealth has chosen to host all JNSQ configs in itself.
 * Removed Kronometer from JNSQ (must now be downloaded and installed separately).
 * Removed MyRocksAreBiggerThanYours plugin (now part of Kopernicus).
