@@ -1,6 +1,7 @@
 # JNSQ
 
 ## 0.10.0 Change log
+:bookmark: *KSP 1.12.1+*
 * Added dark mode dV map.
 * Added one biome each to Dres and Edna.
 * Added Optional Mods: JNSQ_Rescale for 1x and 10x versions of JNSQ.
