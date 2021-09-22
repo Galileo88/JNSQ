@@ -11,8 +11,8 @@ Many KSP modders have considered that while the stock parts (namely, engines) ar
 * **Sigma Dimensions** and **Rescale!** are not required for JNSQ to function, and are discouraged from use alongside JNSQ.
 * When starting new saves under JNSQ, we advise that you enter Difficulty Settings and raise the DSN modifier to 4x. JNSQ applies a patch to increase antenna range by 4x, so leave the range modifier at 1 (changing it triggers a bug that may prevent science transmission).
 * The Making History LV-TX87 and LV-T91 engines have had their thrust, mass and cost increased 25% and 20% respectively. This change was deemed necessary to assure they can lift a Mk2 command pod and service module to low orbit at JNSQ's larger scale.
-* JNSQ retains the stockalike Kerbin-Mun-Minmus system to conform to game elements outside or our control, such as the built-in contract system. Be advised, however, this configuration is unstable. For users of the mod Principia, the orbit of Minmus is moved inside that of Mun to provide orbital stability.
-* JNSQ raises the SCANsat scan altitudes by 3x in order to allow reasonable scan speeds at 2.7x scale, and viable scan work at all but the smallest bodies.
+* JNSQ retains the stockalike Kerbin-Mun-Minmus system to conform to game elements outside or our control, such as the built-in contract system. Be advised, however, this configuration is unstable when using n-body physics. For users of the mod Principia, the orbit of Minmus is moved inside that of Mun to provide orbital stability.
+* JNSQ raises the SCANsat scan altitudes by 1.5x in order to allow reasonable scan speeds at 2.7x scale, and viable scan work at all but the smallest bodies.
 * JNSQ changes Duna to be very Mars-like which means lowering its atmosphere pressure to 0.04 atm and includes the Sigma TweakChutes plugin which fixes the stock bug of chutes not checking their partial deploy limit and being able to fully deploy when they should be unable to. This consequently makes it so that the player must approach Duna like any real space agency would: Drogue chutes and powered landings only.
 * JNSQ provides at least 14 facilities powered by Kerbal Konstructs + [Omega's Stockalike Stuctures](https://spacedock.info/mod/2061/Omega%27s%20Stockalike%20Structures:%20No%20Textures%20Required). Most of these facilities have gameplay features within them for making use of spare kerbals, launching and refueling ships, farming funds or science, expanding DSN coverage, recovering for funds in career. Most of these facilities are hidden by default and must be found.
   * 9 of these are airports.
@@ -26,11 +26,14 @@ JNSQ introduces and bundles a new utility mod that depends on the Community Reso
 
 Compatibility for mods that expect the stock planets with default topology, biomes, order or radii is not to be expected and will not be provided by us.
 
-JNSQ is not recommended for use with other planet packs. Questions regarding other planet pack compatibility will be ignored.
+The three Team Galileo planet packs - JNSQ, GPP (secondary mode) and GEP - are designed to be installed together and work in concert. However, since JNSQ is built natively to a different scale than GPP and GEP, 
+
+JNSQ is not recommended for use with other planet packs, other than those specifically endorsed by Team Galileo. At present, only Galileo's Planet Pack (GPP) and Grannus Expansion Pack (GEP) are designed to work alongside JNSQ. Because of differences in native scale, resizing is necessary to allow the planet packs to co-exist in the same install. To this end, optional Rescale mods are provided to enable all three planet packs to be set to the same scale. Questions regarding other planet pack compatibility will be ignored.
 
 ## Localizations
 * German
 * Italian
+* Spanish
 
 ## Provided Compatibility
 * Distant Object Enhancement
