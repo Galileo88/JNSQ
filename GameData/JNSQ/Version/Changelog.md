@@ -1,5 +1,11 @@
 # JNSQ
 
+## 0.10.1 Change log
+:bookmark: *KSP 1.12.1+*
+* Flipped planet & Strategia icons upright.
+* Revised scatterer settings, sky color is now cast on objects.
+* Revised terrain detail presets; fixed conflict with GPP.
+
 ## 0.10.0 Change log
 :bookmark: *KSP 1.12.1+*
 * Added dark mode dV map.
