@@ -10,6 +10,11 @@ JNSQ_Rescale
 See the Readme within the JNSQ_Rescale folder.
 
 
+JavelinEngine
+= = = =
+See the Readme within the JavelinEngine folder.
+
+
 RationalResources (Parts pack)
 = = = =
 Drop the "RationalResourcesParts" folder into the GameData folder of your preferred KSP install. This is found in RationalResources_Extras/GameData/

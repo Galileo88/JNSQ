@@ -5,6 +5,9 @@
 * Flipped planet & Strategia icons upright.
 * Revised scatterer settings, sky color is now cast on objects.
 * Revised terrain detail presets; fixed conflict with GPP.
+* Removed color map from AirBaseBoneyard map decal.
+* Added CommNetConstellation compatibility (uses KK ground stations instead of stock).
+* Added optional mod: JavelinEngine (designed for use on NARA).
 
 ## 0.10.0 Change log
 :bookmark: *KSP 1.12.1+*
