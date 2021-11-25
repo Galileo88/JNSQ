@@ -45,7 +45,7 @@ JNSQ is not recommended for use with other planet packs, other than those specif
 * Planetshine
 * Rational Resources
 * ResearchBodies
-* Scatterer
+* Scatterer, v0.0772
 * Skybox via Sigma Replacements, DiRT, TextureReplacer
 * Strategia
 * Waypoint Manager
