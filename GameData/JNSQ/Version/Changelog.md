@@ -1,5 +1,10 @@
 # JNSQ
 
+## 0.10.2 Change log
+:bookmark: *KSP 1.12.1+*
+* Added DeployedScience config.
+* Updated TweakChutes to v0.3.1.
+
 ## 0.10.1 Change log
 :bookmark: *KSP 1.12.1+*
 * Flipped planet & Strategia icons upright.

@@ -1,3 +1,8 @@
+**v0.3.1**
+
+- Updated to UnityEngine v2019.2.2f1
+
+
 **v0.3.0**
 
 - Avoid replacing the ModuleParachute
