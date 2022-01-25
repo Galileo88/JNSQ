@@ -36,6 +36,7 @@ JNSQ is not recommended for use with other planet packs, other than those specif
 * Spanish
 
 ## Provided Compatibility
+* Kronometer: customized clock & calendar
 * Distant Object Enhancement
 * Environmental Visual Enhancements
 * Kerbal Konstructs: We roll our own extra launch sites
@@ -61,6 +62,7 @@ JNSQ is not recommended for use with other planet packs, other than those specif
 * [JX2 Antenna](https://spacedock.info/mod/1107/JX2Antenna), late-game antennae made to reduce the need to spam RA-15 and RA-100 and preclude the need to install Custom Barn Kit.
 
 ### Utilities
+* [Kronometer](https://github.com/linuxgurugamer/Kronometer/releases) changes the in-game clock and calendar to match Kerbin's rotation and orbital periods, i.e. a 12-hour day and 365-days per year.
 * [Antenna Helper](https://spacedock.info/mod/1730/Antenna%20Helper) adequately and easily shows the power and ranges of combined antenna in VAB, flight and the Tracking Station.
 * [Better SRBs](https://github.com/OhioBob/BetterSRBs/releases): Although a small engine pack, it is primarily a utility. This mod adds very much needed behavior and appropriate rebalances to SRBs in stock and in a handful of popular large parts packs.
 * [CommNet Antennas Info](https://spacedock.info/mod/2039/CommNet%20Antennas%20Info) expands the panel info for antennae in the VAB.
