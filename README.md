@@ -52,7 +52,7 @@ JNSQ is not recommended for use with other planet packs, other than those specif
 * Waypoint Manager
 
 ## Requirements
-* Kopernicus (including ColorFix.cfg and MultiStarSolarPanels.cfg)
+* Kopernicus (including ColorFix.cfg)
 * ModuleManager 4 or newer
 * Minimum Hardware: 3 GHz quad-core CPU, 16GB of system RAM and 2GB of video memory
 
