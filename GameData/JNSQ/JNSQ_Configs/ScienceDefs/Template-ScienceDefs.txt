@@ -1,0 +1,339 @@
+﻿
+
+
+
+
+
+
+
+
+
+// WARNING! SPOILERS!
+// This file contains spoilers. If you don't want to have your surprises ruined, you should stop reading now.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Seriously, it's a lot more fun to find this stuff out in the game.
+// Last chance to turn back.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// I did warn you.
+
+
+
+
+
+// situation bits:
+// SrfLanded = 1,
+// SrfSplashed = 2,
+// FlyingLow = 4,
+// FlyingHigh = 8,
+// InSpaceLow = 16,
+// InSpaceHigh = 32
+
+//For the most part add the name of the body with a leading % sign, followed by the situation followed by the biome if applicable.
+
+@EXPERIMENT_DEFINITION:HAS[#id[crewReport]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Crew Report Example Surface landed
+		%ExampleSrfSplashed = Crew Report Example Surface splashed down
+		// %ExampleSrf = (Or use this for both landed and splashed down)
+				 // Replace with localization tag later
+		%ExampleFlyingLow = Crew Report Flying Example Low
+		%ExampleFlyingHigh = Crew Report Flying Example High
+		%ExampleInSpaceLow = Crew Report Example low space
+		%ExampleInSpaceHigh = Crew Report Example high space
+	}
+}
+
+
+@EXPERIMENT_DEFINITION:HAS[#id[evaReport]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = EVA Report Example Surface landed
+		%ExampleSrfSplashed = EVA Report Example Surface splashed down
+		// %ExampleSrf = EVA Report Example Surface
+		%ExampleFlyingLow = EVA Report Example FLying Low
+		%ExampleFlyingHigh = EVA Report Example FLying High
+		%ExampleInSpaceLow = EVA Report Example low space
+		%ExampleInSpaceHigh = EVA Report Example high space
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[mysteryGoo]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Mystery Goo Example Surface landed
+		%ExampleSrfSplashed = Mystery Goo Example Surface splashed
+		// %ExampleSrf = Mystery Goo Example Surface generic
+		%ExampleFlyingLow = Mystery Goo Example Flying Low
+		%ExampleFlyingHigh = Mystery Goo Example Flying High
+		%ExampleInSpaceLow = Mystery Goo Example low space
+		%ExampleInSpaceHigh = Mystery Goo Example high space
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[surfaceSample]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Surface sample Example Surface landed
+		%ExampleSrfSplashed = Surface sample Example Surface splashed down
+		// %ExampleSrfLandedBiomeName = Surface sample Example Landed at specific biome
+	}	
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[mobileMaterialsLab]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Materials Study Example Landed
+		%ExampleSrfSplashed = Materials Study Example splashed down
+		%ExampleFlyingLow = Materials Study Example flying low
+		%ExampleFlyingHigh = Materials Study Example flying high
+		//%ExampleSrfLandedBiomeName = Materials Study Example Landed at specific biome
+		%ExampleInSpaceLow = Materials Study Example in low space
+		%ExampleInSpaceHigh = Materials Study Example in low space
+	}	
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[temperatureScan]]
+{	
+	@RESULTS
+	{
+		%ExampleSrfLanded = Temperature scan Example landed
+		%ExampleSrfSplashed = Temperature scan Example splashed down
+		// %ExampleSrfLandedBiomeName = Temp scan Example landed specific biome
+		%ExampleSrfFlyingLow = Temperature scan Example flying low
+		// %ExampleSrfFlyingLowBiome = Temperature scan flying low specific biome
+		%ExampleSrfFlyingHigh = Temperature scan Example flying high
+		%ExampleInSpaceLow = Temp scan Example low space
+		%ExampleInSpaceHigh = Temp scan Example high space
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[barometerScan]]
+{	
+	@RESULTS
+	{
+		%ExampleSrfLanded = Pressure scan Example landed
+		%ExampleSrfSplashed = Pressure scan Example splashed down
+		%ExampleFlyingLow = Pressure scan Example flying low
+		%ExampleFlyingHigh = Pressure scan Example flying high
+		%ExampleInSpaceLow = Pressure scan Example low space
+		%ExampleInSpaceHigh = Pressure scan Example high space
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[seismicScan]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Seismic Scan Example surface
+		// %ExampleSrfLandedBiome = Seismic Scan Example surface at specific biome
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[gravityScan]]
+{	
+	@RESULTS
+	{
+		%ExampleSrfLanded = Gravity Scan Example surface
+		// %ExampleSrfLandedBiome = Gravity Scan Example surface specifc biome
+		%ExampleInSpaceLow = Gravity Scan Example low space
+		// %ExampleInSpaceLowBiome = Gravity Scan Example low space specific biome
+		%ExampleInSpaceHigh = Gravity Scan Example high space
+		// %ExampleInSpaceHighBiome = Gravity Scan Example high space specific biome
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[atmosphereAnalysis]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Atmosphere analysis Example landed
+		// %ExampleSrfLandedBiome = Atmosphere analysis Example landed specific biome
+		%ExampleSrfSplashed = Atmosphere analysis Example splashed down
+		// %ExampleSrfSplashedBiome = Atmosphere analysis Example splashed down specific biome
+		%ExampleFlyingLow = Atmosphere analysis Example flying low
+		// %ExampleFlyingLowBiome = Atmosphere analysis Example flying low specific biome
+		%ExampleFlyingHigh = Atmosphere analysis Example flying high
+		// %ExampleFlyingHighBiome = Atmosphere analysis Example flying high specific biome
+	}
+}
+
+//		ARM Update Experiment Definitions
+
+@EXPERIMENT_DEFINITION:HAS[#id[asteroidSample]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Space Potato Sample Example surface landed
+		%ExampleSrfSplashed = Space Potato Sample Example surface landed
+		%ExampleInSpaceLow = Space Potato Sample Example low space
+		%ExampleInSpaceHigh = Space Potato Sample Example high space
+	}	
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[cometSample_short]]
+{
+	@RESULTS
+	{
+		%ExampleInSpace = Short Ice Ball Sample Example Space
+	}	
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[cometSample_intermediate]]
+{
+	@RESULTS
+	{
+		%ExampleInSpace = Medium Ice Ball Sample Example Space
+	}	
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[cometSample_long]]
+{
+	RESULTS
+	{
+		%ExampleInSpace = Long Ice Ball Sample Example Space
+	}	
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[cometSample_interstellar]]
+{
+	@RESULTS
+	{
+		%ExampleInSpace = Really Long Ice Ball Sample Example Space
+	}	
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[infraredTelescope]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = IR Telescope Example surface landed
+		%ExampleInSpace = IR Telescope Example in space
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[magnetometer]]
+{
+	@RESULTS
+	{
+		%ExampleInSpaceLow = Solar wind scan Example low space
+		%ExampleInSpaceHigh = Solar wind scan Example high space
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[evaScience]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Fore! EVA science Example surface
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[deployedSeismicSensor]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Deployed seismic sensor Example surface
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[deployedWeatherReport]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Deployed weather report Example surface
+		// %ExampleSrfLandedBiome = Deployed weather report Example surface specific biome
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[deployedGooObservation]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Deployed goo Example surface landed
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[deployedIONCollector]]
+{
+	@RESULTS
+	{
+		%ExampleSrfLanded = Ion collection Example Surface
+	}
+}
+
+@EXPERIMENT_DEFINITION:HAS[#id[ROCScience_RocNameHere]]
+// Repeat for every Breaking Ground object type found here
+{
+	@RESULTS
+	{
+		%ExampleSrf = ROC Name Here scan Example surface
+	}
+}
