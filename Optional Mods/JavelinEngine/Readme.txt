@@ -4,7 +4,7 @@ The T-2 Toroidal Aerospike "Javelin" Liquid Fuel Engine is designed specifically
 
 Engine Performance
 ------------------
-Vaccum:  300 kN thrust, 330 s Isp
+Vacuum:  300 kN thrust, 330 s Isp
 10 atm:  209 kN thrust, 230 s Isp
 40 atm:  164 kN thrust, 180 s Isp
 

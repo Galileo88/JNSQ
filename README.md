@@ -50,6 +50,7 @@ JNSQ is not recommended for use with other planet packs, other than those specif
 * Skybox via Sigma Replacements, DiRT, TextureReplacer
 * Strategia
 * Waypoint Manager
+* Niako's Kopernicus Utilities
 
 ## Requirements
 * Kopernicus and its dependencies
